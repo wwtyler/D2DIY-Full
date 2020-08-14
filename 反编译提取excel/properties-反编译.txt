@@ -1,0 +1,271 @@
+code	*codename	*done	set1	val1	func1	stat1	set2	val2	func2	stat2	set3	val3	func3	stat3	set4	val4	func4	stat4	set5	val5	func5	stat5	set6	val6	func6	stat6	set7	val7	func7	stat7	*desc	*param	*min	*max	*notes	*eol
+pr0	ac	1			1	is31																													none	0
+pr1	ac-miss	1			1	is32																													none	0
+pr2	ac-hth	1			1	is33																													none	0
+pr3	red-dmg	1			1	is34																													none	0
+pr4	red-dmg%	1			1	is36																													none	0
+pr5	ac%	1			2	is16																													none	0
+pr6	red-mag	1			1	is35																													none	0
+pr7	str	1			1	is0																													none	0
+pr8	dex	1			1	is2																													none	0
+pr9	vit	1			1	is3																													none	0
+pr10	enr	1			1	is1																													none	0
+pr11	mana	1			1	is9																													none	0
+pr12	mana%	1			1	is77																													none	0
+pr13	hp	1			1	is7																													none	0
+pr14	hp%	1			1	is76																													none	0
+pr15	att	1			1	is19																													none	0
+pr16	block	1			1	is20																													none	0
+pr17	cold-min	1			1	is54																													none	0
+pr18	cold-max	1			1	is55																													none	0
+pr19	cold-len	1			1	is56																													none	0
+pr20	fire-min	1			1	is48																													none	0
+pr21	fire-max	1			1	is49																													none	0
+pr22	ltng-min	1			1	is50																													none	0
+pr23	ltng-max	1			1	is51																													none	0
+pr24	pois-min	1			1	is57																													none	0
+pr25	pois-max	1			1	is58																													none	0
+pr26	pois-len	1			1	is59																													none	0
+pr27	dmg-min	1			5																														none	0
+pr28	dmg-max	1			6																														none	0
+pr29	dmg%	1			7																														none	0
+pr30	dmg-to-mana	1			1	is114																													none	0
+pr31	res-fire	1			1	is39																													none	0
+pr32	res-fire-max	1			1	is40																													none	0
+pr33	res-ltng	1			1	is41																													none	0
+pr34	res-ltng-max	1			1	is42																													none	0
+pr35	res-cold	1			1	is43																													none	0
+pr36	res-cold-max	1			1	is44																													none	0
+pr37	res-mag	1			1	is37																													none	0
+pr38	res-mag-max	1			1	is38																													none	0
+pr39	res-pois	1			1	is45																													none	0
+pr40	res-pois-max	1			1	is46																													none	0
+pr41	res-all	1			1	is39			3	is41			3	is43			3	is45																	none	0
+pr42	res-all-max	1			1	is40			3	is42			3	is44			3	is46																	none	0
+pr43	abs-fire%	1			1	is142																													none	0
+pr44	abs-fire	1			1	is143																													none	0
+pr45	abs-ltng%	1			1	is144																													none	0
+pr46	abs-ltng	1			1	is145																													none	0
+pr47	abs-mag%	1			1	is146																													none	0
+pr48	abs-mag	1			1	is147																													none	0
+pr49	abs-cold%	1			1	is148																													none	0
+pr50	abs-cold	1			1	is149																													none	0
+pr51	dur	1			1	is73																													none	0
+pr52	dur%	1			13	is75																													none	0
+pr53	regen	1			1	is74																													none	0
+pr54	thorns	1			1	is78																													none	0
+pr55	swing1	1			8	is93																													none	0
+pr56	swing2	1			8	is93																													none	0
+pr57	swing3	1			8	is93																													none	0
+pr58	gold%	1			1	is79																													none	0
+pr59	mag%	1			1	is80																													none	0
+pr60	knock	1			1	is81																													none	0
+pr61	regen-stam	1			1	is28																													none	0
+pr62	regen-mana	1			1	is27																													none	0
+pr63	stam	1			1	is11																													none	0
+pr64	time	1			1	is82																													none	0
+pr65	manasteal	1			1	is62																													none	0
+pr66	lifesteal	1			1	is60																													none	0
+pr67	ama	1			21	is83																													none	0
+pr68	pal	1		3	21	is83																													none	0
+pr69	nec	1		2	21	is83																													none	0
+pr70	sor	1		1	21	is83																													none	0
+pr71	bar	1		4	21	is83																													none	0
+pr72	herb	1			1	is88																													none	0
+pr73	light	1			1	is89																													none	0
+pr74	color	1	1		1	is90																													none	0
+pr75	ease	1			1	is91																													none	0
+pr76	move1	1			8	is96																													none	0
+pr77	move2	1			8	is96																													none	0
+pr78	move3	1			8	is96																													none	0
+pr79	balance1	1			8	is99																													none	0
+pr80	balance2	1			8	is99																													none	0
+pr81	balance3	1			8	is99																													none	0
+pr82	block1	1			8	is102																													none	0
+pr83	block2	1			8	is102																													none	0
+pr84	block3	1			8	is102																													none	0
+pr85	cast1	1			8	is105																													none	0
+pr86	cast2	1			8	is105																													none	0
+pr87	cast3	1			8	is105																													none	0
+pr88	res-pois-len	1			1	is110																													none	0
+pr89	dmg	1			1	is111																													none	0
+pr90	howl	1			1	is112																													none	0
+pr91	stupidity	1			1	is113																													none	0
+pr92	ignore-ac	1			1	is115																													none	0
+pr93	reduce-ac	1			1	is116																													none	0
+pr94	noheal	1			1	is117																													none	0
+pr95	half-freeze	1			1	is118																													none	0
+pr96	att%	1			1	is119																													none	0
+pr97	dmg-ac	1			1	is120																													none	0
+pr98	dmg-demon	1			1	is121																													none	0
+pr99	dmg-undead	1			1	is122																													none	0
+pr100	att-demon	1			1	is123																													none	0
+pr101	att-undead	1			1	is124																													none	0
+pr102	throw	1			1	is125																													none	0
+pr103	fireskill	1		1	21	is126			3	is361																									none	0
+pr104	allskills	1			1	is127																													none	0
+pr105	light-thorns	1			1	is128																													none	0
+pr106	freeze	1			1	is134																										chance in 128	length in frames		none	0
+pr107	openwounds	1			1	is135																													none	0
+pr108	crush	1			1	is136																													none	0
+pr109	kick	1			1	is137																													none	0
+pr110	mana-kill	1			1	is138																													none	0
+pr111	demon-heal	1			1	is139																													none	0
+pr112	bloody	1			1	is140																													none	0
+pr113	deadly	1			1	is141																													none	0
+pr114	slow	1			1	is150																													none	0
+pr115	nofreeze	1			1	is153																													none	0
+pr116	stamdrain	1			1	is154																													none	0
+pr117	reanimate	1			24	is155																													none	0
+pr118	pierce	1			1	is156																													none	0
+pr119	magicarrow	1			1	is157																													none	0
+pr120	explosivearrow	1			1	is158																													none	0
+Expansion	Expansion																																			0
+pr121	dru	1		5	21	is83																									All Druid Skills				none	0
+pr122	ass	1		6	21	is83																									All Assassin Skills				none	0
+pr123	skill	1			22	is107																													none	0
+pr124	skilltab	1			10	is188																													none	0
+pr125	aura	1			22	is151																													none	0
+pr126	att-skill	1			11	is195																									Proc Skill on Swing	Skill #	% Chance	Level	none	0
+pr127	hit-skill	1			11	is198																									Proc Skill on Hit	Skill #	% Chance	Level	none	0
+pr128	gethit-skill	1			11	is201																									Proc Skill on Get Hit	Skill #	% Chance	Level	none	0
+pr129	gembonus																														Increase chance of finding Gems				none	0
+pr130	regen-dur																																		none	0
+pr131	fire-fx																																		none	0
+pr132	ltng-fx																																		none	0
+pr133	sock	1			14	is194																													none	0
+pr134	dmg-fire	1			15	is48			16	is49																					Fire Damage		Min	Max	none	0
+pr135	dmg-ltng	1			15	is50			16	is51																					Lightning Damage		Min	Max	none	0
+pr136	dmg-mag	1			15	is52			16	is53																					Magic Damge		Min	Max	none	0
+pr137	dmg-cold	1			15	is54			16	is55			17	is56																	Cold Damage	Length (Frames)	Min	Max	none	0
+pr138	dmg-pois	1			15	is57			16	is58			17	is59																	Poison Damage	Length (Frames)	Min	Max	none	0
+pr139	dmg-throw	1			15	is159			16	is160																					Throwing Damage		Min	Max	none	0
+pr140	dmg-norm	1			15	is21			16	is22																					Normal Damage Modifier		Min	Max	none	0
+pr141	ac/lvl	1			17	is214																									AC per Player Level	ac/lvl (8ths)			none	0
+pr142	ac%/lvl	1			17	is215																									AC% per Player Level	ac%/lvl (8ths)			none	0
+pr143	hp/lvl	1			17	is216																									HP per Player Level	hp/lvl (8ths)			none	0
+pr144	mana/lvl	1			17	is217																									Mana per Player Level	(8ths)			none	0
+pr145	dmg/lvl	1			17	is218																									Max Damage per Player Level	(8ths)			none	0
+pr146	dmg%/lvl	1			17	is219																									Max Damage % per Player Level	(8ths)			none	0
+pr147	str/lvl	1			17	is220																									Strength per Player Level	(8ths)			none	0
+pr148	dex/lvl	1			17	is221																									Dexterity per Player Level	(8ths)			none	0
+pr149	enr/lvl	1			17	is222																									Energy per Player Level	(8ths)			none	0
+pr150	vit/lvl	1			17	is223																									Vitality per Player Level	(8ths)			none	0
+pr151	att/lvl	1			17	is224																									Attack per Player Level	att/lvl (1)			none	0
+pr152	att%/lvl	1			17	is225																									Attack% per Player Level	att%/lvl (8ths)			none	0
+pr153	dmg-cold/lvl	1			17	is226																									Max Cold Damage per Player Level	(8ths)			none	0
+pr154	dmg-fire/lvl	1			17	is227																									Max Fire Damage per Player Level	(8ths)			none	0
+pr155	dmg-ltng/lvl	1			17	is228																									Max Lightning Dmg per Player Level	(8ths)			none	0
+pr156	dmg-pois/lvl	1			17	is229																									Max Poison Dmg per Player Level	(8ths)			none	0
+pr157	res-cold/lvl	1			17	is230																									Resist Cold% per Player Level	(8ths)			none	0
+pr158	res-fire/lvl	1			17	is231																									Resist Fire% per Player Level	(8ths)			none	0
+pr159	res-ltng/lvl	1			17	is232																									Resist Lightning% per Player Level	(8ths)			none	0
+pr160	res-pois/lvl	1			17	is233																									Resist Poison% per Player Level	(8ths)			none	0
+pr161	abs-cold/lvl	1			17	is234																									Absorb Cold Dmg per Player Level	(8ths)			none	0
+pr162	abs-fire/lvl	1			17	is235																									Absorb Fire Dmg per Player Level	(8ths)			none	0
+pr163	abs-ltng/lvl	1			17	is236																									Absorb Lightning Dmg per Player Lvl	(8ths)			none	0
+pr164	abs-pois/lvl	1			17	is237																									Absorb Poison Dmg per Player Lvl	(8ths)			none	0
+pr165	thorns/lvl	1			17	is238																									Damage to Attacker per Player Lvl	(8ths)			none	0
+pr166	gold%/lvl	1			17	is239																									+% Gold Dropped per Player Lvl	(8ths)			none	0
+pr167	mag%/lvl	1			17	is240																									+% Magical per Player Lvl	(8ths)			none	0
+pr168	regen-stam/lvl	1			17	is241																									+% Stamina Regeneration per Player Lvl	(8ths)			none	0
+pr169	stam/lvl	1			17	is242																									Stamina per Player Level	(8ths)			none	0
+pr170	dmg-dem/lvl	1			17	is243																									Damage to Demons % per Player Level	(8ths)			none	0
+pr171	dmg-und/lvl	1			17	is244																									Damage to Undead % per Player Level	(8ths)			none	0
+pr172	att-dem/lvl	1			17	is245																									Attack Demons + per Player Level	att/lvl (1)			none	0
+pr173	att-und/lvl	1			17	is246																									Attack Undead + per Player Level	att/lvl (1)			none	0
+pr174	crush/lvl	1			17	is247																									+% Chance of Crushing Blow per Player Level	(8ths)			none	0
+pr175	wounds/lvl	1			17	is248																									+% Chance of Open Wounds per Player Level	(8ths)			none	0
+pr176	kick/lvl	1			17	is249																									Kick Damage per Player Level	(8ths)			none	0
+pr177	deadly/lvl	1			17	is250																									+% Chance of Deadly Strike per Player Level	(8ths)			none	0
+pr178	gems%/lvl																														+% Chance of finding Gems per Player Level	(8ths)			none	0
+pr179	rep-dur	1			17	is252																									regenerates durability	speed (see note)			regenerates 1 durability point per 100/lvl seconds	0
+pr180	rep-quant	1			17	is253																									regenerates quantity	speed (see note)			regenerates 1 quantity per 100/lvl seconds	0
+pr181	stack	1			1	is254																									Increased stack size		min count	max count	none	0
+pr182	item%																														+% Chance of finding item	item type	min chance	max chance	random chance from min to max is assigned to item	0
+pr183	dmg-slash																														Slashing Damage		min	max	random amount from min to max is assigned to item	0
+pr184	dmg-slash%																														Slashing Damage %		min %	max %	random amount from min to max is assigned to item	0
+pr185	dmg-crush																														Crush Damage		min	max	random amount from min to max is assigned to item	0
+pr186	dmg-crush%																														Crush Damage %		min %	max %	random amount from min to max is assigned to item	0
+pr187	dmg-thrust																														Thrust Damage		min	max	random amount from min to max is assigned to item	0
+pr188	dmg-thrust%																														Thrust Damage %		min %	max %	random amount from min to max is assigned to item	0
+pr189	abs-slash																														Absorb Slashing Damage		min amt	max amt	random amount from min to max is assigned to item	0
+pr190	abs-crush																														Absorb Crushing Damage		min amt	max amt	random amount from min to max is assigned to item	0
+pr191	abs-thrust																														Absorb Thrusting Damage		min amt	max amt	random amount from min to max is assigned to item	0
+pr192	abs-slash%																														Absorb Slashing Damage %		min %	max %	random amount from min to max is assigned to item	0
+pr193	abs-crush%																														Absorb Crushing Damage %		min %	max %	random amount from min to max is assigned to item	0
+pr194	abs-thrust%																														Absorb Thrusting Damage %		min %	max %	random amount from min to max is assigned to item	0
+pr195	ac/time	1			18	is268																									"AC / time increment (0=day, 1=dusk, 2=night, 3=dawn)"	center period	min	max	"max at center period, min at opposite period, linear progression"	0
+pr196	ac%/time	1			18	is269																									AC% / time increment (8 periods)	center period	min	max	"max at center period, min at opposite period, linear progression"	0
+pr197	hp/time	1			18	is270																									HP / time increment	center period	min	max	"max at center period, min at opposite period, linear progression"	0
+pr198	mana/time	1			18	is271																									Mana / time increment	center period	min	max	"max at center period, min at opposite period, linear progression"	0
+pr199	dmg/time	1			18	is272																									Max Damage / time increment	center period	min	max	"max at center period, min at opposite period, linear progression"	0
+pr200	dmg%/time	1			18	is273																									Max Damage % / time increment	center period	min	max	"max at center period, min at opposite period, linear progression"	0
+pr201	str/time	1			18	is274																									Strength / time increment	center period	min	max	"max at center period, min at opposite period, linear progression"	0
+pr202	dex/time	1			18	is275																									Dexterity / time increment	center period	min	max	"max at center period, min at opposite period, linear progression"	0
+pr203	enr/time	1			18	is276																									Energy / time increment	center period	min	max	"max at center period, min at opposite period, linear progression"	0
+pr204	vit/time	1			18	is277																									Vitality / time increment	center period	min	max	"max at center period, min at opposite period, linear progression"	0
+pr205	att/time	1			18	is278																									To hit / time increment	center period	min	max	"max at center period, min at opposite period, linear progression"	0
+pr206	att%/time	1			18	is279																									To Hit % / time increment	center period	min	max	"max at center period, min at opposite period, linear progression"	0
+pr207	dmg-cold/time	1			18	is280																									Cold Damage Max / time inc.	center period	min	max	"max at center period, min at opposite period, linear progression"	0
+pr208	dmg-fire/time	1			18	is281																									Fire Damage Max / time inc.	center period	min	max	"max at center period, min at opposite period, linear progression"	0
+pr209	dmg-ltng/time	1			18	is282																									Lightning Damage Max / time inc.	center period	min	max	"max at center period, min at opposite period, linear progression"	0
+pr210	dmg-pois/time	1			18	is283																									Poison Damage Max / time inc.	center period	min	max	"max at center period, min at opposite period, linear progression"	0
+pr211	res-cold/time	1			18	is284																									Resist Cold / time inc.	center period	min	max	"max at center period, min at opposite period, linear progression"	0
+pr212	res-fire/time	1			18	is285																									Resist Fire / time inc.	center period	min	max	"max at center period, min at opposite period, linear progression"	0
+pr213	res-ltng/time	1			18	is286																									Resist Lightning / time inc	center period	min	max	"max at center period, min at opposite period, linear progression"	0
+pr214	res-pois/time	1			18	is287																									Resist Poison / time inc	center period	min	max	"max at center period, min at opposite period, linear progression"	0
+pr215	abs-cold/time	1			18	is288																									Absorb Cold / time inc.	center period	min	max	"max at center period, min at opposite period, linear progression"	0
+pr216	abs-fire/time	1			18	is289																									Absorb Fire / time inc.	center period	min	max	"max at center period, min at opposite period, linear progression"	0
+pr217	abs-ltng/time	1			18	is290																									Absorb Lightning / time inc.	center period	min	max	"max at center period, min at opposite period, linear progression"	0
+pr218	abs-pois/time	1			18	is291																									Absorb Poison / time inc.	center period	min	max	"max at center period, min at opposite period, linear progression"	0
+pr219	gold%/time	1			18	is292																									Find Gold Amt % / time inc.	center period	min	max	"max at center period, min at opposite period, linear progression"	0
+pr220	mag%/time	1			18	is293																									Find Magic % / time inc.	center period	min	max	"max at center period, min at opposite period, linear progression"	0
+pr221	regen-stam/time	1			18	is294																									% / time inc.	center period	min	max	"max at center period, min at opposite period, linear progression"	0
+pr222	stam/time	1			18	is295																									Stamina / time inc.	center period	min	max	"max at center period, min at opposite period, linear progression"	0
+pr223	dmg-dem/time	1			18	is296																									Damage to Demons % / time inc.	center period	min	max	"max at center period, min at opposite period, linear progression"	0
+pr224	dmg-und/time	1			18	is297																									Damage to Undead % / time inc.	center period	min	max	"max at center period, min at opposite period, linear progression"	0
+pr225	att-dem/time	1			18	is298																									To Hit Demons % / time inc.	center period	min	max	"max at center period, min at opposite period, linear progression"	0
+pr226	att-und/time	1			18	is299																									To Hit Undead % / time inc.	center period	min	max	"max at center period, min at opposite period, linear progression"	0
+pr227	crush/time	1			18	is300																									% chance of Crushing Blow / time inc.	center period	min	max	"max at center period, min at opposite period, linear progression"	0
+pr228	wounds/time	1			18	is301																									+% chance of Open Wounds / time inc.	center period	min	max	"max at center period, min at opposite period, linear progression"	0
+pr229	kick/time	1			18	is302																									Kick Damage / time inc.	center period	min	max	"max at center period, min at opposite period, linear progression"	0
+pr230	deadly/time	1			18	is303																									+% chance of Deadly Strike / time inc.	center period	min	max	"max at center period, min at opposite period, linear progression"	0
+pr231	gems%/time																														+% chance of finding Gems / time inc.	center period	min	max	"max at center period, min at opposite period, linear progression"	0
+pr232	pierce-fire	1			1	is333																									Negates % of Enemy Cold Resistance		min	max	none	0
+pr233	pierce-ltng	1			1	is334																									Negates % of Enemy Fire Resistance		min	max	none	0
+pr234	pierce-cold	1			1	is335																									Negates % of Enemy Lightning Resistance		min	max	none	0
+pr235	pierce-pois	1			1	is336																									Negates % of Enemy Poison Resistance		min	max	none	0
+pr236	dmg-mon																														Damage vs. specific Monster Type	monster	min	max	none	0
+pr237	dmg%-mon																														Damage % vs. specific Monster Type	monster	min	max	none	0
+pr238	att-mon																														To Hit vs. specific Monster Type	monster	min	max	none	0
+pr239	att%-mon																														To Hit % vs. specific Monster Type	monster	min	max	none	0
+pr240	ac-mon																														AC vs. specific Monster Type	monster	min	max	none	0
+pr241	ac%-mon																														AC% vs. specific Monster Type	monster	min	max	none	0
+pr242	indestruct	1			20																										Indestructible				none	0
+pr243	charged	1			19	is204																									Charged Skill	skill	charges	level	none	0
+pr244	extra-fire	1			1	is329																														0
+pr245	extra-ltng	1			1	is330																														0
+pr246	extra-cold	1			1	is331																														0
+pr247	extra-pois	1			1	is332																														0
+pr248	dmg-elem	1			15	is48			16	is49			15	is50			16	is51			15	is54			16	is55			17	is56						0
+pr249	dmg-elem-min	1			1	is48			3	is50			3	is54																						0
+pr250	dmg-elem-max	1			1	is49			3	is51			3	is55			17	is56																		0
+pr251	all-stats	1			1	is0			3	is1			3	is2			3	is3																		0
+pr252	addxp	1			1	is85																									additional xp gain					0
+pr253	heal-kill	1			1	is86																									life gained after each kill					0
+pr254	cheap	1			1	is87																									reduces vendor prices		min	max	none	0
+pr255	rip	1			1	is108																									slain monsters' corpses can't be used		1	1	none	0
+pr256	att-mon%	1			24	is179																									attack% vs. monster type	mon type	min	max		0
+pr257	dmg-mon%	1			24	is180																									damage% vs. monster type	mon type	min	max		0
+pr258	kill-skill	1			11	is196																									Proc Skill on killing something	Skill #	% Chance	Level		0
+pr259	death-skill	1			11	is197																									Proc Skill on getting killed	Skill #	% Chance	Level		0
+pr260	levelup-skill	1			11	is199																									Proc Skill on level up	Skill #	% Chance	Level		0
+pr261	skill-rand	1			12	is107																									Bonus to random skill	Level	min Skill #	max Skill #		0
+pr262	fade	1			17	is181																									only use on monprop	fade type				0
+pr263	levelreq	1			1	is92																														0
+pr264	ethereal	1			23																															0
+pr265	oskill	1			22	is97																										Skill	min level	max level	none	0
+pr266	state	1			24	is98																										state	1	1		0
+pr267	randclassskill	1		3	36	is83																														0
+~~	randclassskill2			1	36	is83																														0
