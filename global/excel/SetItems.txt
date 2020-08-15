@@ -8,10 +8,10 @@ Hsarus' Iron Stay	Hsarus' Defense	mbl	Belt	7	4	3	dred	dred						5	2500	2	res-col
 Cleglaw's Tooth	Cleglaw's Brace	lsd	Long Sword	7	6	4	lred	lred						5	2500	2	att%		30	30	deadly		50	50																													dmg/lvl	10																																							0
 Cleglaw's Claw	Cleglaw's Brace	sml	Small Shield	7	6	4	lred	lred						5	2500	2	ac		17	17	res-pois-len		75	75																													res-all		15	15																																					0
 Cleglaw's Pincers	Cleglaw's Brace	mgl	Chain Gloves	7	6	4	lred	lred						5	2500	2	knock		1	1	slow		25	25																													att/lvl	20																																							0
-Iratha's Collar	Iratha's Finery	amu	Amulet	7	21	15	lgry	lgry						5	2500	2	res-pois		30	30	res-pois-len		75	75																													res-all		15	15																																					0
-Iratha's Cuff	Iratha's Finery	tgl	Light Gauntlets	7	21	15	lgry	lgry						5	2500	2	res-cold		30	30	half-freeze		1	1																													swing2		20	20																																					0
-Iratha's Coil	Iratha's Finery	crn	Crown	7	21	15	lgry	lgry						5	2500	2	res-fire		30	30	res-ltng		30	30																													ac/lvl	16																																							0
-Iratha's Cord	Iratha's Finery	tbl	Heavy Belt	7	21	15	lgry	lgry						5	2500	2	ac		25	25	dmg-min		5	5																													dex		10	10																																					0
+Iratha's Collar	Iratha's Finery	amu	Amulet	7	21	15	lgry	lgry						5	2500	2	res-pois		30	30	res-pois-len		75	75	mana		50	50	mag%		50	50																					res-all		25	25					res-fire-max		10	10																													0
+Iratha's Cuff	Iratha's Finery	tgl	Light Gauntlets	7	21	15	lgry	lgry						5	2500	2	res-cold		30	30	half-freeze		1	1	swing2		25	25	hp		40	40																					swing2		20	20					res-cold-max		10	10																													0
+Iratha's Coil	Iratha's Finery	crn	Crown	7	21	15	lgry	lgry						5	2500	2	res-fire		30	30	res-ltng		30	30	ac		80	80	str		10	10																					ac/lvl	16							res-ltng-max		10	10																													0
+Iratha's Cord	Iratha's Finery	tbl	Heavy Belt	7	21	15	lgry	lgry						5	2500	2	ac		25	25	dmg-min		25	25	move3		20	20	dex		10	10																					dex		10	10					res-pois-max		10	10																													0
 Isenhart's Lightbrand	Isenhart's Armory	bsd	Broad Sword	7	11	8	lgld	lgld						5	2500	2	dmg-min		10	10	swing2		20	20																													att/lvl	10																																							0
 Isenhart's Parry	Isenhart's Armory	gts	Gothic Shield	7	11	8	lgld	lgld						5	2500	2	ac		40	40	light-thorns		4	4																													res-all		8	8																																					0
 Isenhart's Case	Isenhart's Armory	brs	Breast Plate	7	11	8	lgld	lgld						5	2500	2	ac		40	40	red-mag		2	2																													ac/lvl	16																																							0
@@ -49,15 +49,15 @@ Berserker's Hatchet	Berserker's Garb	2ax	Double Axe	7	5	3	dred	dred						5	2500	
 Death's Hand	Death's Disguise	lgl	Leather Gloves	7	8	6	lred	lred						5	2500	2	res-pois		50	50	res-pois-len		75	75																													swing3		30	30																																					0
 Death's Guard	Death's Disguise	lbl	Sash	7	8	6	lred	lred						5	2500	2	ac		20	20	nofreeze		1	1																													res-all		15	15																																					0
 Death's Touch	Death's Disguise	wsd	War Sword	7	8	6	lred	lred						5	2500	2	dmg%		25	25	lifesteal		4	4																													dmg-cold	75	25	75																																					0
-Angelic Sickle	Angelical Raiment	sbr	Sabre	7	17	12	lgry	lgry						5	2500	2	att		75	75	dmg-undead		250	250																													dmg%		75	75					swing3		30	30																													0
-Angelic Mantle	Angelical Raiment	rng	Ring Mail	7	17	12	lgry	lgry						5	2500	2	red-dmg		3	3	ac%		40	40																													ac		150	150					res-fire		50	50																													0
-Angelic Halo	Angelical Raiment	rin	Ring	3	17	12	lgry	lgry						5	2500	2	regen		6	6	hp		20	20																													att/lvl	24							mag%		50	50																													0
-Angelic Wings	Angelical Raiment	amu	Amulet	7	17	12	lgry	lgry						5	2500	2	light		3	3	dmg-to-mana		20	20																													hp		75	75					allskills		1	1																													0
+Angelic Sickle	Angelical Raiment	sbr	Sabre	7	17	12	lgry	lgry						5	2500	2	att		150	150	dmg-undead		400	400																													dmg		200	200					swing3		50	50																													0
+Angelic Mantle	Angelical Raiment	rng	Ring Mail	7	17	12	lgry	lgry						5	2500	2	red-dmg		6	6	ac%		100	100																													ac		150	150					res-all 		75	75																													0
+Angelic Halo	Angelical Raiment	rin	Ring	3	17	12	lgry	lgry						5	2500	2	regen		12	12	hp		60	60																													att/lvl	50							mag%		150	150																													0
+Angelic Wings	Angelical Raiment	amu	Amulet	7	17	12	lgry	lgry						5	2500	2	light		5	5	dmg-to-mana		20	20																													crush		45	45					allskills		5	5																													0
 Arctic Horn	Arctic Gear	swb	Short War Bow	7	3	2	lgld	lgld						5	2500	2	att%		20	20	dmg%		50	50																													att/lvl	16							dmg-cold	75	20	30																													0
 Arctic Furs	Arctic Gear	qui	Quilted Armor	7	3	2	lgld	lgld						5	2500	2	ac%		275	325	res-all		10	10																													ac/lvl	24							res-cold		15	15																													0
 Arctic Binding	Arctic Gear	vbl	Light Belt	7	3	2	lgld	lgld						5	2500	2	res-cold		40	40	ac		30	30																													mag%		40	40					res-cold		10	10																													0
 Arctic Mitts	Arctic Gear	tgl	Light Gauntlets	7	3	2	lgld	lgld						5	2500	2	hp		20	20	swing1		10	10																													att		50	50					dex		10	10																													0
-Arcanna's Sign	Arcanna's Tricks	amu	Amulet	1	20	15	blac	blac						5	2500	2	mana		15	15	regen-mana		20	20																													mag%		50	50					res-fire		20	20																													0
+Arcanna's Sign	Arcanna's Tricks	amu	Amulet	3	20	15	blac	blac						5	2500	2	mana		15	15	regen-mana		20	20																													mag%		50	50					res-fire		20	20																													0
 Arcanna's Deathwand	Arcanna's Tricks	wst	War Staff	7	20	15	blac	blac						5	2500	2	sor		1	1	deadly		25	25																													mana		50	50					regen-mana		5	5																													0
 Arcanna's Head	Arcanna's Tricks	skp	Skull Cap	7	20	15	blac	blac						5	2500	2	regen		4	4	thorns		2	2																													ac/lvl	24							res-ltng		15	15																													0
 Arcanna's Flesh	Arcanna's Tricks	ltp	Light Plate	7	20	15	blac	blac						5	2500	2	light		2	2	red-dmg		3	3																													ac		100	100					enr		10	10																													0
@@ -95,7 +95,7 @@ M'avina's Embrace	M'avina's Battle Hymn	uld	Kraken Shell	7	21	70	whit	whit						
 M'avina's Icy Clutch	M'avina's Battle Hymn	xtg	Battle Gauntlets	7	21	32	whit	whit						5	5000	2	ac		45	50	dmg-cold	150	6	18	half-freeze		1	1	gold%		56	56	str		10	10	dex		15	15																													dmg-cold	100	131	252					extra-cold		20	20													0
 M'avina's Tenet	M'avina's Battle Hymn	zvb	Sharkskin Belt	7	21	45	whit	whit						5	5000	2	ac		50	50	move2		20	20	manasteal		5	5	light		5	5																																					res-all		25	25																					0
 M'avina's Caster	M'avina's Battle Hymn	amc	Grand Matron Bow	7	21	70	whit	whit						5	5000	2	dmg%		188	188	swing3		40	40	magicarrow		1	1	att		50	50																					dmg-mag		114	377					hit-skill	Nova	10	15					skilltab	0	2	2																					0
-Telling of Beads	The Disciple	amu	Amulet	1	39	30	lblu	lblu						5	5000		res-pois		35	50	allskills		1	1	res-cold		18	18	thorns		8	10																																																													0
+Telling of Beads	The Disciple	amu	Amulet	3	39	30	lblu	lblu						5	5000		res-pois		35	50	allskills		1	1	res-cold		18	18	thorns		8	10																																																													0
 Laying of Hands	The Disciple	ulg	Bramble Mitts	7	39	63	lblu	lblu						5	5000		ac		25	25	swing2		20	20	res-fire		50	50	dmg-demon		350	350	hit-skill	101	10	3																																																									0
 Rite of Passage	The Disciple	xlb	Demonhide Boots	7	39	29	lblu	lblu						5	5000		ac		25	25	move3		30	30	half-freeze		1	1	stam		15	25																																																													0
 Spiritual Custodian	The Disciple	uui	Dusk Shroud	7	39	43	lblu	lblu						5	5000		ac		305	415	res-fire		24	24	gethit-skill	48	25	3	dmg-pois	50	125	175																																																													0
@@ -112,9 +112,9 @@ Hwanin's Splendor	Hwanin's Majesty	xrn	Grand Crown	7	28	45								5	5000		regen	
 Hwanin's Refuge	Hwanin's Majesty	xcl	Tigulated Mail	7	28	30								5	5000		ac		200	200	res-pois		27	27	hp		100	100	gethit-skill	42	10	3																																																													0
 Hwanin's Seal	Hwanin's Majesty	mbl	Belt	7	28	35								5	5000		dmg-ltng		3	33	noheal		1	1	ac/lvl	12			dmg-to-mana		12	12																																																													0
 Hwanin's Justice	Hwanin's Majesty	9vo	Bill	7	28	28								5	5000		att		330	330	indestruct		1	1	hit-skill	45	10	3	swing3		40	40	dmg%		200	200	dmg-ltng		5	25																																																					0
-Sazabi's Cobalt Redeemer	Sazabi's Grand Tribute	7ls	Cryptic Sword	7	34	73	dblu	dblu						5	5000		dmg%		150	150	dmg-cold	50	25	35	swing3		40	40	dmg-demon		318	318	indestruct		1	1	dex		15	15	str		5	5																																																	0
-Sazabi's Ghost Liberator	Sazabi's Grand Tribute	upl	Balrog Skin	7	34	67	dblu	dblu						5	5000		ac		400	400	balance3		30	30	str		25	25	att-demon		300	300	hp		50	75																																																									0
-Sazabi's Mental Sheath	Sazabi's Grand Tribute	xhl	Basinet	7	34	43	dblu	dblu						5	5000		ac		100	100	allskills		1	1	res-fire		15	20	res-ltng		15	20																																																													0
+Sazabi's Cobalt Redeemer	Sazabi's Grand Tribute	7ls	Cryptic Sword	7	34	73	dblu	dblu						5	5000		dmg%		250	350	dmg-cold	50	25	35	swing3		40	40	dmg-demon		318	318	indestruct		1	1	dex		15	15	str		15	15																																																	0
+Sazabi's Ghost Liberator	Sazabi's Grand Tribute	upl	Balrog Skin	7	34	67	dblu	dblu						5	5000		ac		600	600	balance3		30	30	str		25	25	att-demon		300	300	hp		75	75																																																									0
+Sazabi's Mental Sheath	Sazabi's Grand Tribute	xhl	Basinet	7	34	43	dblu	dblu						5	5000		ac		200	200	allskills		3	3	res-fire		35	35	res-ltng		35	35																																																													0
 Bul-Kathos' Sacred Charge	Bul-Kathos' Children	7gd	Colossus Blade	7	50	61	dgrn	dgrn						5	5000		crush		35	35	res-all		20	20	swing2		20	20	knock		1	1	dmg%		200	200																																																									0
 Bul-Kathos' Tribal Guardian	Bul-Kathos' Children	7wd	Mythical Sword	7	50	54	dgrn	dgrn						5	5000		res-fire		50	50	dmg-pois	50	255	255	swing2		20	20	str		20	20	dmg%		200	200																																																									0
 Cow King's Horns	Cow King's Leathers	xap	War Hat	7	20	25								5	5000		ac		75	75	half-freeze		1	1	dmg-to-mana		35	35	thorns		10	10																																																													0
