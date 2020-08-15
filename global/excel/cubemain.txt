@@ -1,7 +1,7 @@
 description	enabled	ladder	min diff	version	op	param	value	class	numinputs	input 1	input 2	input 3	input 4	input 5	input 6	input 7	output	lvl	plvl	ilvl	mod 1	mod 1 chance	mod 1 param	mod 1 min	mod 1 max	mod 2	mod 2 chance	mod 2 param	mod 2 min	mod 2 max	mod 3	mod 3 chance	mod 3 param	mod 3 min	mod 3 max	mod 4	mod 4 chance	mod 4 param	mod 4 min	mod 4 max	mod 5	mod 5 chance	mod 5 param	mod 5 min	mod 5 max	output b	b lvl	b plvl	b ilvl	b mod 1	b mod 1 chance	b mod 1 param	b mod 1 min	b mod 1 max	b mod 2	b mod 2 chance	b mod 2 param	b mod 2 min	b mod 2 max	b mod 3	b mod 3 chance	b mod 3 param	b mod 3 min	b mod 3 max	b mod 4	b mod 4 chance	b mod 4 param	b mod 4 min	b mod 4 max	b mod 5	b mod 5 chance	b mod 5 param	b mod 5 min	b mod 5 max	output c	c lvl	c plvl	c ilvl	c mod 1	c mod 1 chance	c mod 1 param	c mod 1 min	c mod 1 max	c mod 2	c mod 2 chance	c mod 2 param	c mod 2 min	c mod 2 max	c mod 3	c mod 3 chance	c mod 3 param	c mod 3 min	c mod 3 max	c mod 4	c mod 4 chance	c mod 4 param	c mod 4 min	c mod 4 max	c mod 5	c mod 5 chance	c mod 5 param	c mod 5 min	c mod 5 max	*eol
 Staff of Kings + Viper amulet -> Horadric Staff	1			0	28				2	msf	vip						hst																																																																																							0
 Khalim Flail + Khalim Heart + Khalim Eye + Khalim Brain -> Super Khalim Flail	1			0	28				4	qf1	qhr	qey	qbr				qf2																																																																																							0
-1 Wirt's leg + 1 town portal book -> portal to cow lvl	1			0	28				2	leg	tbk						Cow Portal																																																																																							0
+1 Wirt's leg + 1 town portal book -> portal to cow lvl	1			0	28				2	"rvl,qty=2"							Cow Portal																																																																																							0
 3 health potions + 3 mana potions + 1 standard gem -> full rejuvenate potion	1			0					7	"hpot,qty=3"	"mpot,qty=3"	gem2					rvl																																																																																							0
 3 health potions +  3 mana potions + 1 chipped gem -> rejuvenate potion	1			0					7	"hpot,qty=3"	"mpot,qty=3"	gem0					rvs																																																																																							0
 3 small rejuvs -> one large	1			0					3	"rvs,qty=3"							rvl																																																																																							0
@@ -12,8 +12,6 @@ Khalim Flail + Khalim Heart + Khalim Eye + Khalim Brain -> Super Khalim Flail	1	
 1 ring + 1 emerald + 1 antidote potions -> jade ring	1			0					3	"rin,mag"	gpg	yps					"rin,mag,pre=412"	30																																																																																						0
 1 axe + 1 dagger -> throwing axe	1			0					2	axe	knif						"tax,nor"																																																																																							0
 1 spear + 1 arrow quiver -> javelins	1			0					2	spea	aqv						"jav,nor"																																																																																							0
-3 rings -> amulet	1			0					3	"rin,mag,qty=3"							"amu,mag"		75																																																																																					0
-3 amulets -> ring	1			0					3	"amu,mag,qty=3"							"rin,mag"		75																																																																																					0
 "3 standard gems + 1 socketed weapon ->  magic, socketable weapon"	1			0					4	"weap,sock"	"gem2,qty=3"						"usetype,mag"	30		60	sock			1	2																																																																															0
 "3 flawless gems + 1 magic weapon -> socketed, magic weapon"	1			0					4	"weap,mag"	"gem3,qty=3"						"usetype,mag"	30		60	sock			1	2																																																																															0
 1 magic small shield + 1 spiked club + 2 skulls -> shield of spikes	1			0					4	"shld,mag"	"gemz,qty=2"	spc					"usetype,mag,suf=162"	30		60																																																																																				0
@@ -22,45 +20,6 @@ Khalim Flail + Khalim Heart + Khalim Eye + Khalim Brain -> Super Khalim Flail	1	
 1 strangling gas potion + 1 health potion -> antidote potion	1			0					2	gpl	hpot						yps																																																																																							0
 2 arrows -> bolts	1			0					2	"aqv,qty=2"							cqv																																																																																							0
 2 bolts -> arrows	1			0					2	"cqv,qty=2"							aqv																																																																																							0
-3 chipped amethysts -> flawed amethyst	1			0					3	"gcv,qty=3"							gfv																																																																																							0
-3 flawed amethysts -> standard amethyst	1			0					3	"gfv,qty=3"							gsv																																																																																							0
-3 standard amethysts -> flawless amethyst	1			0					3	"gsv,qty=3"							gzv																																																																																							0
-3 flawless amethysts -> perfect amethyst	1			0					3	"gzv,qty=3"							gpv																																																																																							0
-3 chipped rubies -> flawed ruby	1			0					3	"gcr,qty=3"							gfr																																																																																							0
-3 flawed rubies -> standard ruby	1			0					3	"gfr,qty=3"							gsr																																																																																							0
-3 standard rubies -> flawless ruby	1			0					3	"gsr,qty=3"							glr																																																																																							0
-3 flawless rubies -> perfect ruby	1			0					3	"glr,qty=3"							gpr																																																																																							0
-3 chipped sapphires -> flawed sapphire	1			0					3	"gcb,qty=3"							gfb																																																																																							0
-3 flawed sapphires -> standard sapphire	1			0					3	"gfb,qty=3"							gsb																																																																																							0
-3 standard sapphires -> flawless sapphire	1			0					3	"gsb,qty=3"							glb																																																																																							0
-3 flawless sapphires -> perfect sapphire	1			0					3	"glb,qty=3"							gpb																																																																																							0
-3 chipped topazes -> flawed topaz	1			0					3	"gcy,qty=3"							gfy																																																																																							0
-3 flawed topazes -> standard topaz	1			0					3	"gfy,qty=3"							gsy																																																																																							0
-3 standard topazes -> flawless topaz	1			0					3	"gsy,qty=3"							gly																																																																																							0
-3 flawless topazes -> perfect topaz	1			0					3	"gly,qty=3"							gpy																																																																																							0
-3 chipped emeralds -> flawed emerald	1			0					3	"gcg,qty=3"							gfg																																																																																							0
-3 flawed emeralds -> standard emerald	1			0					3	"gfg,qty=3"							gsg																																																																																							0
-3 standard emeralds -> flawless emerald	1			0					3	"gsg,qty=3"							glg																																																																																							0
-3 flawless emeralds -> perfect emerald	1			0					3	"glg,qty=3"							gpg																																																																																							0
-3 chipped diamonds -> flawed diamond	1			0					3	"gcw,qty=3"							gfw																																																																																							0
-3 flawed diamonds -> standard diamond	1			0					3	"gfw,qty=3"							gsw																																																																																							0
-3 standard diamonds -> flawless diamond	1			0					3	"gsw,qty=3"							glw																																																																																							0
-3 flawless diamonds -> perfect diamond	1			0					3	"glw,qty=3"							gpw																																																																																							0
-3 chipped skulls -> flawed skull	1			0					3	"skc,qty=3"							skf																																																																																							0
-3 flawed skulls -> standard skull	1			0					3	"skf,qty=3"							sku																																																																																							0
-3 standard skulls -> flawless skull	1			0					3	"sku,qty=3"							skl																																																																																							0
-3 flawless skulls -> perfect skull	1			0					3	"skl,qty=3"							skz																																																																																							0
-3 rune 01 -> rune 02	1			100					3	"r01,qty=3"							r02																																																																																							0
-3 rune 02 -> rune 03	1			100					3	"r02,qty=3"							r03																																																																																							0
-3 rune 03 -> rune 04	1			100					3	"r03,qty=3"							r04																																																																																							0
-3 rune 04 -> rune 05	1			100					3	"r04,qty=3"							r05																																																																																							0
-3 rune 05 -> rune 06	1			100					3	"r05,qty=3"							r06																																																																																							0
-3 rune 06 -> rune 07	1			100					3	"r06,qty=3"							r07																																																																																							0
-3 rune 07 -> rune 08	1			100					3	"r07,qty=3"							r08																																																																																							0
-3 rune 08 -> rune 09	1			100					3	"r08,qty=3"							r09																																																																																							0
-3 rune 09 -> rune 10	1			100					3	"r09,qty=3"							r10																																																																																							0
-3 perfect gems + 1 magic item -> magic item	1			100					4	"any,mag"	"gem4,qty=3"						"usetype,mag"			100																																																																																				0
-6 perfect skulls + 1 rare item -> 1 low level rare item	1			0					7	"any,rar"	"skz,qty=6"						"usetype,rar"		40	40																																																																																				0
 1 perfect skull + 1 rare item + soj -> 1 high level rare item	1			0					3	"any,rar"	skz	The Stone of Jordan					"usetype,rar"		66	66																																																																																				0
 3 perfect skull + 1 rare item + stone of jordan-> add 1 socket to rare	1			0					5	"any,rar,nos"	"skz,qty=3"	The Stone of Jordan					"useitem,sock=1"																																																																																							0
 magic full helm + jewel + rune 06 + perfect sapphire -> hitpower helm	1			100					4	"fhl,mag,upg"	jew	r06	gpb				"usetype,crf"		50	50	gethit-skill		44	5	4	thorns			3	7	ac-miss			25	50																																																																					0
@@ -99,29 +58,6 @@ magic breastplate + jewel + rune 05 + perfect emerald -> safety body	1			100				
 magic amulet + jewel + rune 10 + perfect emerald -> safety amulet	1			100					4	"amul,mag"	jew	r10	gpg				"usetype,crf"		50	50	red-dmg			1	4	red-mag			1	2	block			1	10																																																																					0
 magic ring + jewel + rune 11 + perfect emerald -> safety ring	1			100					4	"ring,mag"	jew	r11	gpg				"usetype,crf"		50	50	red-dmg			1	4	red-mag			1	2	vit			1	5																																																																					0
 magic spear + jewel + rune 12 + perfect emerald -> safety weapon	1			100					4	"spea,mag"	jew	r12	gpg				"usetype,crf"		50	50	red-dmg			1	4	red-mag			1	2	ac%			5	10																																																																					0
-3 rune 10 + 1 chipped topaz -> rune 11	1			100					4	"r10,qty=3"	gcy						r11																																																																																							0
-3 rune 11 + 1 chipped amethyst -> rune 12	1			100					4	"r11,qty=3"	gcv						r12																																																																																							0
-3 rune 12 + 1 chipped sapphire -> rune 13	1			100					4	"r12,qty=3"	gcb						r13																																																																																							0
-3 rune 13 + 1 chipped ruby -> rune 14	1			100					4	"r13,qty=3"	gcr						r14																																																																																							0
-3 rune 14 + 1 chipped emerald -> rune 15	1	1		100					4	"r14,qty=3"	gcg						r15																																																																																							0
-3 rune 15 + 1 chipped diamond -> rune 16	1	1		100					4	"r15,qty=3"	gcw						r16																																																																																							0
-3 rune 16 + 1 flawed topaz -> rune 17	1	1		100					4	"r16,qty=3"	gfy						r17																																																																																							0
-3 rune 17 + 1 flawed amethyst -> rune 18	1	1		100					4	"r17,qty=3"	gfv						r18																																																																																							0
-3 rune 18 + 1 flawed sapphire -> rune 19	1	1		100					4	"r18,qty=3"	gfb						r19																																																																																							0
-3 rune 19 + 1 flawed ruby -> rune 20	1	1		100					4	"r19,qty=3"	gfr						r20																																																																																							0
-3 rune 20 + 1 flawed emerald -> rune 21	1	1		100					4	"r20,qty=3"	gfg						r21																																																																																							0
-2 rune 21 + 1 flawed diamond -> rune 22	1	1		100					3	"r21,qty=2"	gfw						r22																																																																																							0
-2 rune 22 + 1 standard topaz -> rune 23	1	1		100					3	"r22,qty=2"	gsy						r23																																																																																							0
-2 rune 23 + 1 standard amethyst -> rune 24	1	1		100					3	"r23,qty=2"	gsv						r24																																																																																							0
-2 rune 24 + 1 standard sapphire -> rune 25	1	1		100					3	"r24,qty=2"	gsb						r25																																																																																							0
-2 rune 25 + 1 standard ruby -> rune 26	1	1		100					3	"r25,qty=2"	gsr						r26																																																																																							0
-2 rune 26 + 1 standard emerald -> rune 27	1	1		100					3	"r26,qty=2"	gsg						r27																																																																																							0
-2 rune 27 + 1 standard diamond -> rune 28	1	1		100					3	"r27,qty=2"	gsw						r28																																																																																							0
-2 rune 28 + 1 flawless topaz -> rune 29	1	1		100					3	"r28,qty=2"	gly						r29																																																																																							0
-2 rune 29 + 1 flawless amethyst -> rune 30	1	1		100					3	"r29,qty=2"	gzv						r30																																																																																							0
-2 rune 30 + 1 flawless sapphire -> rune 31	1	1		100					3	"r30,qty=2"	glb						r31																																																																																							0
-2 rune 31 + 1 flawless ruby -> rune 32	1	1		100					3	"r31,qty=2"	glr						r32																																																																																							0
-2 rune 32 + 1 flawless emerald -> rune 33	1	1		100					3	"r32,qty=2"	glg						r33																																																																																							0
 r07 + r10 + 1 perfect topaz + normal torso -> socketed torso	1			100					4	"tors,nor,nos"	r07	r10	gpy				useitem				sock			1	6																																																																															0
 r08 + r11 + 1 perfect amethyst + normal weapon -> socketed weapon	1			100					4	"weap,nor,nos"	r08	r11	gpv				useitem				sock			1	6																																																																															0
 r08 + r10 + 1 perfect sapphire + normal helm -> socketed helm	1			100					4	"helm,nor,nos"	r08	r10	gpb				useitem				sock			1	6																																																																															0
@@ -136,8 +72,6 @@ r09 + r11 + perfect sapphire + basic rare weapon -> exceptional rare weapon	1			
 r08 + r10 + perfect amethyst + basic rare armor -> exceptional rare armor	1			100					4	"armo,bas,rar"	r08	r10	gpv				"useitem,mod,exc"				levelreq			5	5																																																																															0
 r19 + r22 + perfect sapphire + exceptional rare weapon -> elite rare weapon	1			100					4	"weap,exc,rar"	r19	r22	gpb				"useitem,mod,eli"				levelreq			7	7																																																																															0
 r18 + r21 + perfect amethyst + exceptional rare armor -> elite rare armor	1			100					4	"armo,exc,rar"	r18	r21	gpv				"useitem,mod,eli"				levelreq			7	7																																																																															0
-r09 + weapon -> repair	1			100					2	"weap,noe"	r09						"useitem,rep,qty=255"																																																																																							0
-r08 + armor -> repair	1			100					2	"armo,noe"	r08						"useitem,rep,qty=255"																																																																																							0
 r09 + weapon + chipped gem -> repair + recharge	1			100					3	"weap,noe"	r09	gem0					"useitem,rep,rch,qty=255"																																																																																							0
 r08 + armor + flawed gem -> repair + recharge	1			100					3	"armo,noe"	r08	gem1					"useitem,rep,rch,qty=255"																																																																																							0
 r15 + tsc + any socketed item -> unsocket (destroy gems)	1			100					3	"any,sock"	r15	tsc					"useitem,uns"																																																																																							0
@@ -147,6 +81,334 @@ r08 + jew + magic ring -> tempered ring				100					3	"ring,mag"	jew	r08					"use
 r08 + jew + magic amulet -> tempered amulet				100					3	"amu,mag"	jew	r08					"usetype,tmp"				levelreq			5	5																																																																															0
 r01 + gcv + tempered weapon -> +30-50 ar				100					3	"weap,tmp"	r01	gcv					useitem				levelreq			2	2	att			30	50																																																																										0
 "3 chipped gems + 1 magic weapon -> socketed, magic weapon"	1			0					4	"weap,mag"	"gem0,qty=3"						"usetype,mag"	25		50	sock			1	2																																																																															0
-Pandemonium key	1			100	28				3	pk1	pk2	pk3					Pandemonium Portal																																																																																							
-Pandemonium Finale key	1			100	28				3	dhn	bey	mbr					Pandemonium Finale Portal																																																																																							
+Pandemonium key	1			100	28				3	pk1	pk2	pk3					Pandemonium Portal																																																																																							0
+Pandemonium Finale key	1			100	28				3	dhn	bey	mbr					Pandemonium Finale Portal																																																																																							0
 Token of Absolution	1			100					4	tes	ceh	bet	fed				toa																																																																																							0
+																																																																																																								
+武器维修	1			100					2	"weap,noe"	r09						"useitem,rep,qty=255"																																																																																							0
+防具维修	1			100					2	"armo,noe"	r08						"useitem,rep,qty=255"																																																																																							0
+无形武器维修	1			100					2	"weap,eth"	r15						"useitem,rep,qty=255"																																																																																							0
+无形防具维修	1			100					2	"armo,eth"	r16						"useitem,rep,qty=255"																																																																																							0
+[宝石合成]START	1			0					3	"gcv,qty=3"							gfv																																																																																							0
+[        ]	1			0					3	"gfv,qty=3"							gsv																																																																																							0
+[        ]	1			0					3	"gsv,qty=3"							gzv																																																																																							0
+[        ]	1			0					3	"gzv,qty=3"							gpv																																																																																							0
+[        ]	1			0					3	"gcr,qty=3"							gfr																																																																																							0
+[        ]	1			0					3	"gfr,qty=3"							gsr																																																																																							0
+[        ]	1			0					3	"gsr,qty=3"							glr																																																																																							0
+[        ]	1			0					3	"glr,qty=3"							gpr																																																																																							0
+[        ]	1			0					3	"gcb,qty=3"							gfb																																																																																							0
+[        ]	1			0					3	"gfb,qty=3"							gsb																																																																																							0
+[        ]	1			0					3	"gsb,qty=3"							glb																																																																																							0
+[        ]	1			0					3	"glb,qty=3"							gpb																																																																																							0
+[        ]	1			0					3	"gcy,qty=3"							gfy																																																																																							0
+[        ]	1			0					3	"gfy,qty=3"							gsy																																																																																							0
+[        ]	1			0					3	"gsy,qty=3"							gly																																																																																							0
+[        ]	1			0					3	"gly,qty=3"							gpy																																																																																							0
+[        ]	1			0					3	"gcg,qty=3"							gfg																																																																																							0
+[        ]	1			0					3	"gfg,qty=3"							gsg																																																																																							0
+[        ]	1			0					3	"gsg,qty=3"							glg																																																																																							0
+[        ]	1			0					3	"glg,qty=3"							gpg																																																																																							0
+[        ]	1			0					3	"gcw,qty=3"							gfw																																																																																							0
+[        ]	1			0					3	"gfw,qty=3"							gsw																																																																																							0
+[        ]	1			0					3	"gsw,qty=3"							glw																																																																																							0
+[        ]	1			0					3	"glw,qty=3"							gpw																																																																																							0
+[        ]	1			0					3	"skc,qty=3"							skf																																																																																							0
+[        ]	1			0					3	"skf,qty=3"							sku																																																																																							0
+[        ]	1			0					3	"sku,qty=3"							skl																																																																																							0
+[宝石合成]END	1			0					3	"skl,qty=3"							skz																																																																																							0
+[宝石快速合成]START	1			100					4	"gem0,qty=4"							gem1	99																																																																																						0
+[        ]	1			100					4	"gem1,qty=4"							gem2	99																																																																																						0
+[        ]	1			100					4	"gem2,qty=4"							gem3	99																																																																																						0
+[宝石快速合成]END	1			100					4	"gem3,qty=4"							gem4	99																																																																																						0
+[符文聚合升级]START	1			100					8	"r05,qty=8"							r09																																																																																							0
+[        ]	1			100					8	"r06,qty=8"							r10																																																																																							0
+[        ]	1			100					8	"r07,qty=8"							r11																																																																																							0
+[        ]	1			100					8	"r08,qty=8"							r12																																																																																							0
+[        ]	1			100					8	"r09,qty=8"							r13																																																																																							0
+[        ]	1			100					8	"r10,qty=8"							r14																																																																																							0
+[        ]	1			100					8	"r11,qty=8"							r15																																																																																							0
+[        ]	1			100					8	"r12,qty=8"							r16																																																																																							0
+[        ]	1			100					8	"r13,qty=8"							r17																																																																																							0
+[        ]	1			100					8	"r14,qty=8"							r18																																																																																							0
+[        ]	1			100					8	"r15,qty=8"							r19																																																																																							0
+[        ]	1			100					8	"r16,qty=8"							r20																																																																																							0
+[        ]	1			100					8	"r17,qty=8"							r21																																																																																							0
+[        ]	1			100					8	"r18,qty=8"							r22																																																																																							0
+[        ]	1			100					8	"r19,qty=8"							r23																																																																																							0
+[符文聚合升级]END	1			100					8	"r20,qty=8"							r24																																																																																							0
+[符文升级]START	1			100					3	"r01,qty=3"							r02																																																																																							0
+[        ]	1			100					3	"r02,qty=3"							r03																																																																																							0
+[        ]	1			100					3	"r03,qty=3"							r04																																																																																							0
+[        ]	1			100					3	"r04,qty=3"							r05																																																																																							0
+[        ]	1			100					3	"r05,qty=3"							r06																																																																																							0
+[        ]	1			100					3	"r06,qty=3"							r07																																																																																							0
+[        ]	1			100					3	"r07,qty=3"							r08																																																																																							0
+[        ]	1			100					3	"r08,qty=3"							r09																																																																																							0
+[        ]	1			100					3	"r09,qty=3"							r10																																																																																							0
+[        ]	1			100					3	"r10,qty=3"							r11																																																																																							0
+[        ]	1			100					3	"r11,qty=3"							r12																																																																																							0
+[        ]	1			100					3	"r12,qty=3"							r13																																																																																							0
+[        ]	1			100					3	"r13,qty=3"							r14																																																																																							0
+[        ]	1	1		100					3	"r14,qty=3"							r15																																																																																							0
+[        ]	1	1		100					3	"r15,qty=3"							r16																																																																																							0
+[        ]	1	1		100					3	"r16,qty=3"							r17																																																																																							0
+[        ]	1	1		100					3	"r17,qty=3"							r18																																																																																							0
+[        ]	1	1		100					3	"r18,qty=3"							r19																																																																																							0
+[        ]	1	1		100					3	"r19,qty=3"							r20																																																																																							0
+[        ]	1	1		100					3	"r20,qty=3"							r21																																																																																							0
+[        ]	1	1		100					2	"r21,qty=2"							r22																																																																																							0
+[        ]	1	1		100					2	"r22,qty=2"							r23																																																																																							0
+[        ]	1	1		100					2	"r23,qty=2"							r24																																																																																							0
+[        ]	1	1		100					2	"r24,qty=2"							r25																																																																																							0
+[        ]	1	1		100					2	"r25,qty=2"							r26																																																																																							0
+[        ]	1	1		100					2	"r26,qty=2"							r27																																																																																							0
+[        ]	1	1		100					2	"r27,qty=2"							r28																																																																																							0
+[        ]	1	1		100					2	"r28,qty=2"							r29																																																																																							0
+[        ]	1	1		100					2	"r29,qty=2"							r30																																																																																							0
+[        ]	1	1		100					2	"r30,qty=2"							r31																																																																																							0
+[        ]	1	1		100					2	"r31,qty=2"							r32																																																																																							0
+[符文升级]END	1	1		100					2	"r32,qty=2"							r33																																																																																							0
+[符文降级]START	1			100					2	r02	wms						r01																																																																																							0
+[        ]	1			100					2	r03	wms						r02																																																																																							0
+[        ]	1			100					2	r04	wms						r03																																																																																							0
+[        ]	1			100					2	r05	wms						r04																																																																																							0
+[        ]	1			100					2	r06	wms						r05																																																																																							0
+[        ]	1			100					2	r07	wms						r06																																																																																							0
+[        ]	1			100					2	r08	wms						r07																																																																																							0
+[        ]	1			100					2	r09	wms						r08																																																																																							0
+[        ]	1			100					2	r10	wms						r09																																																																																							0
+[        ]	1			100					2	r11	wms						r10																																																																																							0
+[        ]	1			100					2	r12	wms						r11																																																																																							0
+[        ]	1			100					2	r13	wms						r12																																																																																							0
+[        ]	1			100					2	r14	wms						r13																																																																																							0
+[        ]	1			100					2	r15	wms						r14																																																																																							0
+[        ]	1			100					2	r16	wms						r15																																																																																							0
+[        ]	1			100					2	r17	wms						r16																																																																																							0
+[        ]	1			100					2	r18	wms						r17																																																																																							0
+[        ]	1			100					2	r19	wms						r18																																																																																							0
+[        ]	1			100					2	r20	wms						r19																																																																																							0
+[        ]	1			100					2	r21	wms						r20																																																																																							0
+[        ]	1			100					2	r22	wms						r21																																																																																							0
+[        ]	1			100					2	r23	wms						r22																																																																																							0
+[        ]	1			100					2	r24	wms						r23																																																																																							0
+[        ]	1			100					2	r25	wms						r24																																																																																							0
+[        ]	1			100					2	r26	wms						r25																																																																																							0
+[        ]	1			100					2	r27	wms						r26																																																																																							0
+[        ]	1			100					2	r28	wms						r27																																																																																							0
+[        ]	1			100					2	r29	wms						r28																																																																																							0
+[        ]	1			100					2	r30	wms						r29																																																																																							0
+[        ]	1			100					2	r31	wms						r30																																																																																							0
+[        ]	1			100					2	r32	wms						r31																																																																																							0
+[符文降级]END	1			100					2	r33	wms						r32																																																																																							0
+[宝石转符文]START	1			100					4	"skz,qty=4"							r18																																																																																							0
+[        ]	1			100					4	"gpw,qty=4"							r17																																																																																							0
+[        ]	1			100					4	"gpg,qty=4"							r16																																																																																							0
+[        ]	1			100					4	"gpy,qty=4"							r15																																																																																							0
+[        ]	1			100					4	"gpb,qty=4"							r14																																																																																							0
+[        ]	1			100					4	"gpr,qty=4"							r13																																																																																							0
+[宝石转符文]END	1			100					4	"gpv,qty=4"							r12																																																																																							0
+																																																																																																								
+																																																																																																								
+[传奇物品分解]START	1			100					2	"any,uni,qty=1"	"rvl,qty=1"						gem4	99																																																																																						0
+[        ]	1			100					4	"any,uni,qty=2"	"rvl,qty=2"						skz	99																																																																																						0
+[        ]	1			100					6	"any,uni,qty=3"	"rvl,qty=3"						run1	99																																																																																						0
+[        ]	1			100					8	"any,uni,qty=4"	"rvl,qty=4"						"jew,rar"	99																																																																																						0
+[传奇物品分解]END	1			100					10	"any,uni,qty=5"	"rvl,qty=5"						run2	99																																																																																						0
+[套装物品分解]START	1			100					2	"any,set,qty=1"	"rvl,qty=1"						gem4	99																																																																																						0
+[        ]	1			100					4	"any,set,qty=2"	"rvl,qty=2"						skz	99																																																																																						0
+[        ]	1			100					6	"any,set,qty=3"	"rvl,qty=3"						run1	99																																																																																						0
+[        ]	1			100					8	"any,set,qty=4"	"rvl,qty=4"						"jew,rar"	99																																																																																						0
+[套装物品分解]END	1			100					10	"any,set,qty=5"	"rvl,qty=5"						run2	99																																																																																						0
+[传奇物品打孔]	1			100					2	"any,uni"	"gem4,qty=1"						useitem				sock			1	1																																																																															0
+[套装物品打孔]	1			100					2	"any,set"	"skz,qty=1"						useitem				sock			1	1																																																																															0
+[防具打孔]	1			100					2	"tors,nor,nos"	"gem4,qty=1"						useitem				sock			1	1																																																																															0
+[        ]	1			100					3	"tors,nor,nos"	"gem4,qty=2"						useitem				sock			2	2																																																																															0
+[        ]	1			100					4	"tors,nor,nos"	"gem4,qty=3"						useitem				sock			3	3																																																																															0
+[        ]	1			100					5	"tors,nor,nos"	"gem4,qty=4"						useitem				sock			4	4																																																																															0
+[        ]	1			100					2	"tors,hiq,nos"	"gem4,qty=1"						useitem				sock			1	1																																																																															0
+[        ]	1			100					3	"tors,hiq,nos"	"gem4,qty=2"						useitem				sock			2	2																																																																															0
+[        ]	1			100					4	"tors,hiq,nos"	"gem4,qty=3"						useitem				sock			3	3																																																																															0
+[        ]	1			100					5	"tors,hiq,nos"	"gem4,qty=4"						useitem				sock			4	4																																																																															0
+[        ]	1			100					2	"helm,nor,nos"	"gem4,qty=1"						useitem				sock			1	1																																																																															0
+[        ]	1			100					3	"helm,nor,nos"	"gem4,qty=2"						useitem				sock			2	2																																																																															0
+[        ]	1			100					4	"helm,nor,nos"	"gem4,qty=3"						useitem				sock			3	3																																																																															0
+[        ]	1			100					2	"helm,hiq,nos"	"gem4,qty=1"						useitem				sock			1	1																																																																															0
+[        ]	1			100					3	"helm,hiq,nos"	"gem4,qty=2"						useitem				sock			2	2																																																																															0
+[        ]	1			100					4	"helm,hiq,nos"	"gem4,qty=3"						useitem				sock			3	3																																																																															0
+[        ]	1			100					2	"shld,nor,nos"	"gem4,qty=1"						useitem				sock			1	1																																																																															0
+[        ]	1			100					3	"shld,nor,nos"	"gem4,qty=2"						useitem				sock			2	2																																																																															0
+[        ]	1			100					4	"shld,nor,nos"	"gem4,qty=3"						useitem				sock			3	3																																																																															0
+[        ]	1			100					5	"shld,nor,nos"	"gem4,qty=4"						useitem				sock			4	4																																																																															0
+[        ]	1			100					2	"shld,hiq,nos"	"gem4,qty=1"						useitem				sock			1	1																																																																															0
+[        ]	1			100					3	"shld,hiq,nos"	"gem4,qty=2"						useitem				sock			2	2																																																																															0
+[        ]	1			100					4	"shld,hiq,nos"	"gem4,qty=3"						useitem				sock			3	3																																																																															0
+[防具打孔]	1			100					5	"shld,hiq,nos"	"gem4,qty=4"						useitem				sock			4	4																																																																															0
+[武器打孔]	1			100					2	"weap,nor,nos"	"gem4,qty=1"						useitem				sock			1	1																																																																															0
+[        ]	1			100					3	"weap,nor,nos"	"gem4,qty=2"						useitem				sock			2	2																																																																															0
+[        ]	1			100					4	"weap,nor,nos"	"gem4,qty=3"						useitem				sock			3	3																																																																															0
+[        ]	1			100					5	"weap,nor,nos"	"gem4,qty=4"						useitem				sock			4	4																																																																															0
+[        ]	1			100					3	"weap,nor,nos"	"ring,uni"	"skz,qty=1"					useitem				sock			5	5																																																																															0
+[        ]	1			100					4	"weap,nor,nos"	"ring,uni"	"skz,qty=2"					useitem				sock			6	6																																																																															0
+[        ]	1			100					2	"weap,hiq,nos"	"gem4,qty=1"						useitem				sock			1	1																																																																															0
+[        ]	1			100					3	"weap,hiq,nos"	"gem4,qty=2"						useitem				sock			2	2																																																																															0
+[        ]	1			100					4	"weap,hiq,nos"	"gem4,qty=3"						useitem				sock			3	3																																																																															0
+[        ]	1			100					5	"weap,hiq,nos"	"gem4,qty=4"						useitem				sock			4	4																																																																															0
+[        ]	1			100					3	"weap,hiq,nos"	"ring,uni"	"skz,qty=1"					useitem				sock			5	5																																																																															0
+[武器打孔]	1			100					4	"weap,hiq,nos"	"ring,uni"	"skz,qty=2"					useitem				sock			6	6																																																																															0
+																																																																																																								
+[套装物品回收]Immortal King	1			100					6	Immortal King's Will	Immortal King's Soul Cage	Immortal King's Detail	Immortal King's Forge	Immortal King's Pillar	Immortal King's Stone Crusher		run4	99																																																																																						0
+Natalya's Odium	1			100					4	Natalya's Totem	Natalya's Mark	Natalya's Shadow	Natalya's Soul				run4	99																																																																																						0
+Aldur's Watchtower	1			100					4	Aldur's Stony Gaze	Aldur's Deception	Aldur's Gauntlet	Aldur's Advance				run3	99																																																																																						0
+Griswold's Legacy	1			100					4	Griswold's Valor	Griswold's Heart	Griswolds's Redemption	Griswold's Honor				run4	99																																																																																						0
+Tal Rasha's Wrappings	1			100					5	Tal Rasha's Fire-Spun Cloth	Tal Rasha's Adjudication	Tal Rasha's Lidless Eye	Tal Rasha's Howling Wind	Tal Rasha's Horadric Crest			run4	99																																																																																						0
+Trang-Oul's Avatar	1			100					5	Trang-Oul's Guise	Trang-Oul's Scales	Trang-Oul's Wing	Trang-Oul's Claws	Trang-Oul's Girth			run4	99																																																																																						0
+M'avina's Battle Hymn	1			100					5	M'avina's True Sight	M'avina's Embrace	M'avina's Icy Clutch	M'avina's Tenet	M'avina's Caster			run3	99																																																																																						0
+Bul-Kathos' Children	1			100					2	Bul-Kathos' Sacred Charge	Bul-Kathos' Tribal Guardian						run3	99																																																																																						0
+Cow King's Leathers	1			100					3	Cow King's Horns	Cow King's Hide	Cow King's Hoofs					run3	99																																																																																						0
+Heaven's Brethren	1			100					4	Dangoon's Teaching	Heaven's Taebaek	Haemosu's Adament	Ondal's Almighty				run3	99																																																																																						0
+Orphan's Call	1			100					4	Guillaume's Face	Wilhelm's Pride	Magnus' Skin	Wihtstan's Guard				run3	99																																																																																						0
+The Disciple	1			100					5	Telling of Beads	Laying of Hands	Rite of Passage	Spiritual Custodian	Credendum			run3	99																																																																																						0
+Naj's Ancient Set	1			100					3	Naj's Puzzler	Naj's Light Plate	Naj's Circlet					run3	99																																																																																						0
+McAuley's Folly	1			100					4	McAuley's Paragon	McAuley's Riprap	McAuley's Taboo	McAuley's Superstition				run3	99																																																																																						0
+Sazabi's Grand Tribute	1			100					3	Sazabi's Cobalt Redeemer	Sazabi's Ghost Liberator	Sazabi's Mental Sheath					run3	99																																																																																						0
+[套装物品回收]Hwanin's Majesty	1			100					4	Hwanin's Splendor	Hwanin's Refuge	Hwanin's Seal	Hwanin's Justice				run3	99																																																																																						0
+																																														moil																																																										
+[传奇物品回收]START	1			100					2	Tyrael's Might	moil						r28	99																												moil																																																										0
+[        ]	1			100					2	Mang Song's Lesson	moil						r28	99																												moil																																																										0
+[        ]	1			100					2	Fathom	moil						r27	99																												moil																																																										0
+[        ]	1			100					2	Deaths's Web	moil						r27	99																												moil																																																										0
+[        ]	1			100					2	Andariel's Visage	moil						r21	99																												moil																																																										0
+[        ]	1			100					2	Windforce	moil						r26	99																												moil																																																										0
+[        ]	1			100					2	Griffon's Eye	moil						r26	99																												moil																																																										0
+[        ]	1			100					2	Executioner's Justice	moil						r25	99																												moil																																																										0
+[        ]	1			100					2	The Stone of Jordan	moil						r24	99																												moil																																																										0
+[        ]	1			100					2	Ironward	moil						r24	99																												moil																																																										0
+[        ]	1			100					2	Darkforge Spawn	moil						r24	99																												moil																																																										0
+[        ]	1			100					2	Crown of Ages	moil						r24	99																												moil																																																										0
+[        ]	1			100					2	The Grandfather	moil						r23	99																												moil																																																										0
+[        ]	1			100					2	The Cranium Basher	moil						r23	99																												moil																																																										0
+[        ]	1			100					2	Templar's Might	moil						r23	99																												moil																																																										0
+[        ]	1			100					2	Stormspire	moil						r23	99																												moil																																																										0
+[        ]	1			100					2	Steelrend	moil						r23	99																												moil																																																										0
+[        ]	1			100					2	Steelpillar	moil						r23	99																												moil																																																										0
+[        ]	1			100					2	Shadowdancer	moil						r23	99																												moil																																																										0
+[        ]	1			100					2	Natalya's Mark	moil						r23	99																												moil																																																										0
+[        ]	1			100					2	M'avina's True Sight	moil						r23	99																												moil																																																										0
+[        ]	1			100					2	Griswolds's Redemption	moil						r23	99																												moil																																																										0
+[        ]	1			100					2	Griswold's Valor	moil						r23	99																												moil																																																										0
+[        ]	1			100					2	Griswold's Honor	moil						r23	99																												moil																																																										0
+[        ]	1			100					2	Deathcleaver	moil						r23	99																												moil																																																										0
+[        ]	1			100					2	Bul-Kathos' Tribal Guardian	moil						r23	99																												moil																																																										0
+[        ]	1			100					2	Bul-Kathos' Sacred Charge	moil						r23	99																												moil																																																										0
+[        ]	1			100					2	Bul Katho's Wedding Band	moil						r23	99																												moil																																																										0
+[        ]	1			100					2	Aldur's Gauntlet	moil						r23	99																												moil																																																										0
+[        ]	1			100					2	Stormshield	moil						r22	99																												moil																																																										0
+[        ]	1			100					2	Skullder's Ire	moil						r22	99																												moil																																																										0
+[        ]	1			100					2	Shaftstop	moil						r22	99																												moil																																																										0
+[        ]	1			100					2	Ormus' Robes	moil						r22	99																												moil																																																										0
+[        ]	1			100					2	Messerschmidt's Reaver	moil						r22	99																												moil																																																										0
+[        ]	1			100					2	Mara's Kaleidoscope	moil						r22	99																												moil																																																										0
+[        ]	1			100					2	Hellfire Torch	moil						r22	99																												moil																																																										0
+[        ]	1			100					2	Halaberd's Reign	moil						r22	99																												moil																																																										0
+[        ]	1			100					2	Waterwalk	moil						r21	99																												moil																																																										0
+[        ]	1			100					2	Tomb Reaver	moil						r21	99																												moil																																																										0
+[        ]	1			100					2	Titan's Revenge	moil						r21	99																												moil																																																										0
+[        ]	1			100					2	The Reaper's Toll	moil						r21	99																												moil																																																										0
+[        ]	1			100					2	The Oculus	moil						r21	99																												moil																																																										0
+[        ]	1			100					2	Tal Rasha's Adjudication	moil						r21	99																												moil																																																										0
+[        ]	1			100					2	Stormlash	moil						r21	99																												moil																																																										0
+[        ]	1			100					2	Rockstopper	moil						r21	99																												moil																																																										0
+[        ]	1			100					2	Metalgrid	moil						r21	99																												moil																																																										0
+[        ]	1			100					2	Harlequin Crest	moil						r21	99																												moil																																																										0
+[        ]	1			100					2	Eschuta's temper	moil						r21	99																												moil																																																										0
+[        ]	1			100					2	Duriel's Shell	moil						r21	99																												moil																																																										0
+[        ]	1			100					2	Crown of Thieves	moil						r21	99																												moil																																																										0
+[        ]	1			100					2	Azurewrath	moil						r21	99																												moil																																																										0
+[        ]	1			100					2	Thunderstroke	moil						r20	99																												moil																																																										0
+[        ]	1			100					2	Tal Rasha's Howling Wind	moil						r20	99																												moil																																																										0
+[        ]	1			100					2	Steel Carapice	moil						r20	99																												moil																																																										0
+[        ]	1			100					2	Spiritkeeper	moil						r20	99																												moil																																																										0
+[        ]	1			100					2	Shadowkiller	moil						r20	99																												moil																																																										0
+[        ]	1			100					2	Schaefer's Hammer	moil						r20	99																												moil																																																										0
+[        ]	1			100					2	Ravenlore	moil						r20	99																												moil																																																										0
+[        ]	1			100					2	Raven Frost	moil						r20	99																												moil																																																										0
+[        ]	1			100					2	Nightwing's Veil	moil						r20	99																												moil																																																										0
+[        ]	1			100					2	Bloodraven's Charge	moil						r20	99																												moil																																																										0
+[        ]	1			100					2	Alma Negra	moil						r20	99																												moil																																																										0
+[        ]	1			100					2	Stone Crusher	moil						r19	99																												moil																																																										0
+[        ]	1			100					2	Spirit Ward	moil						r19	99																												moil																																																										0
+[        ]	1			100					2	Herald of Zakarum	moil						r19	99																												moil																																																										0
+[        ]	1			100					2	Arreat's Face	moil						r19	99																												moil																																																										0
+[        ]	1			100					2	Arachnid Mesh	moil						r19	99																												moil																																																										0
+[        ]	1			100					2	Aldur's Deception	moil						r19	99																												moil																																																										0
+[        ]	1			100					2	Kira's Guardian	moil						r18	99																												moil																																																										0
+[        ]	1			100					2	Vampiregaze	moil						r17	99																												moil																																																										0
+[        ]	1			100					2	Thudergod's Vigor	moil						r17	99																												moil																																																										0
+[        ]	1			100					2	Skin of the Vipermagi	moil						r17	99																												moil																																																										0
+[        ]	1			100					2	Lidless Wall	moil						r17	99																												moil																																																										0
+[        ]	1			100					2	Hone Sundan	moil						r17	99																												moil																																																										0
+[        ]	1			100					2	Dracul's Grasp	moil						r17	99																												moil																																																										0
+[传奇物品回收]END	1			100					2	Arioc's Needle	moil						r17	99																												moil																																																										0
+																																																																																																								
+cm151	1			100					2	"jew,uni"	moil						r13	99																																																																																						0
+cm157	1			100					2	"cm3,uni"	moil						r14	99																																																																																						0
+cm157	1			100					2	"cm2,uni"	moil						r15	99																																																																																						0
+cm157	1			100					2	"cm1,uni"	moil						r16	99																																																																																						0
+																																																																																																								
+反镶嵌1	1			100					3	"weap,uni,sock"	run3	tsc					"useitem,rem"																																																																																							0
+反镶嵌2	1			100					3	"weap,set,sock"	run3	tsc					"useitem,rem"																																																																																							0
+反镶嵌3	1			100					3	"armo,uni,sock"	run3	tsc					"useitem,rem"																																																																																							0
+反镶嵌4	1			100					3	"armo,set,sock"	run3	tsc					"useitem,rem"																																																																																							0
+反镶嵌5	1			100					3	"weap,rar,sock"	run3	tsc					"useitem,rem"																																																																																							0
+反镶嵌6	1			100					3	"armo,rar,sock"	run3	tsc					"useitem,rem"																																																																																							0
+																																																																																																								
+3 perfect gems + 1 magic item -> magic item	1			100					5	"any,mag"	run1	"gem4,qty=3"					"usetype,mag"	99																																																																																						0
+																																																																																																								
+[护身符附魔]	1			100					3	char	run2	tsc					"useitem,rch,qty=255"				charged		54	255	1																																																																															0
+[护身符附魔]	1			100					3	char	run2	wms					"useitem,rch,qty=255"				charged		74	255	1																																																																															0
+暗金护符+暗金戒指+完美宝石 重置	1			100					3	"char,uni"	gem4	"ring,uni"					"usetype,uni"	99																																																																																						0
+三个护符合成一个蓝色护符	1			100					3	"char,qty=3"							"char,mag"	99																																																																																						0
+三蓝色戒指合成蓝色项链	1			100					3	"rin,mag,qty=3"							"amu,mag"	99																																																																																						0
+三蓝色项链合成蓝色戒指	1			100					3	"amu,mag,qty=3"							"rin,mag"	99																																																																																						0
+蓝色戒指升级	1			100					3	"rin,mag"	gem4	run1					"usetype,rar"			100																																																																																				0
+蓝色项链升级	1			100					3	"amu,mag"	gem4	run1					"usetype,rar"			100																																																																																				0
+洗亮金戒指	1			100					3	"rin,rar"	gem4	run1					"usetype,rar"	99																																																																																						0
+洗亮金项链	1			100					3	"amu,rar"	gem4	run1					"usetype,rar"	99																																																																																						0
+洗亮金武器	1			100					3	"weap,rar"	gem4	run1					"usetype,rar"	99																																																																																						0
+洗亮金防具	1			100					3	"armo,rar"	gem4	run1					"usetype,rar"	99																																																																																						0
+洗暗金戒指	1			100					3	"rin,uni"	jew	run2					"usetype,uni"	99																																																																																						0
+洗暗金项链	1			100					3	"amu,uni"	jew	run2					"usetype,uni"	99																																																																																						0
+洗暗金戒指	1			100					3	"weap,uni"	jew	run2					"usetype,uni"	99																																																																																						0
+洗暗金项链	1			100					3	"armo,uni"	jew	run2					"usetype,uni"	99																																																																																						0
+																																																																																																								
+WW Collector #07	1			100					3	"weap,mag"	jew	gem4					"usetype,rar"	99																																																																																						0
+WW Collector #08	1			100					3	"armo,mag"	jew	gem4					"usetype,rar"	99																																																																																						0
+WW Collector #07	1			100					3	"weap,nor"	run3	gem4					"usetype,uni"	99																																																																																						0
+WW Collector #08	1			100					3	"armo,nor"	run3	gem4					"usetype,uni"	99																																																																																						0
+																																																																																																								
+																																																																																																								
+制作无形	1			100					4	"any,mag"	"gem3,qty=3"						"usetype,mag"			100	ethereal	5		1	1																																																																															0
+制作无形	1								4	"any,rar"	"run1,qty=3"						"usetype,rar"			100	ethereal	5		1	1																																																																															0
+																																																																																																								
+[物品测试]START	1			100					1	moil							"lwb,uni"	99																																																																																						0
+[        ]	1			100					1	tsc							"sbw,uni"	99																																																																																						0
+[        ]	1			100					1	isc							"hbw,uni"	99																																																																																						0
+[        ]	1			100					1	rvl							"lbw,uni"	99																																																																																						0
+[物品测试]START	1			100					1	yps							"cbw,uni"	99																																																																																						0
+																																																																																																								
+																																																																																																								
+																																																																																																								
+																																																																																																								
+															sbw																																																																																									
+															hbw																																																																																									
+															lbw																																																																																									
+															cbw																																																																																									
+															sbb																																																																																									
+															lbb																																																																																									
+															swb																																																																																									
+															lwb																																																																																									
+															lxb																																																																																									
+															mxb																																																																																									
+															hxb																																																																																									
+															rxb																																																																																									
