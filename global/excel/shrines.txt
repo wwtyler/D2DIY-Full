@@ -11,10 +11,10 @@ Booster	Resist Fire Boost	+75% to resist fire	8	75	0	3600	5	2	blah	blah	4	5
 Booster	Resist Cold Boost	+75% to resist cold	9	75	0	3600	5	2	blah	blah	4	26
 Booster	Resist Lightning Boost	+75% to resist lightning	10	75	0	3600	5	2	blah	blah	4	32
 Booster	Resist Poison Boost	"+75% to resist poison, and poison duration = 0"	11	75	0	3600	5	2	blah	blah	4	21
-Booster	Skill Boost	+2 to all skill levels	12	2	0	2400	5	2	blah	blah	4	1
+Booster	Skill Boost	+2 to all skill levels	12	3	0	2400	5	2	blah	blah	4	1
 Booster	Recharge Boost	+400% mana recharge rate	13	400	0	2400	5	2	blah	blah	4	1
 Booster	Stamina Boost	Unlimited stamina	14	200	0	4800	5	3	blah	blah	4	1
-Booster	Experience Boost	50% more experience per kill	15	50	50	3600	0	3	blah	blah	4	1
+Booster	Experience Boost	100% more experience per kill	15	100	100	3600	0	2	blah	blah	4	1
 Magic	Shrine of Enirhs	reverses character name (OUT)	16	0	0	0	0	3	blah	blah	1	1
 Magic	Portal to unknown	opens a portal to town	17	0	0	0	0	2	blah	blah	1	3
 Magic	Gem Upgrade	"upgrades a random gem (up to one before max level if available), or gives a random gem"	18	0	0	0	0	3	blah	blah	1	4
