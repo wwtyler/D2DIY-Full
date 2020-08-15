@@ -43,7 +43,7 @@ Runeword45	Gloom	1		tors									FalUmPul	r19	r22	r21				ac%		170	230	res-all		3
 Runeword122	Sanctuary	1		shld									KoKoMal	r18	r18	r23				block		20	20	block2		20	20	ac%		130	160	ac-miss		250	250	res-all		50	70	balance2		20	20	charged	Slow Missiles	60	12	0
 Runeword16	Chaos	1		h2h									FalOhmUm	r19	r27	r22				demon-heal		15	15	dmg%		240	290	dmg-mag		216	471	oskill	Whirlwind	1	1	swing2		35	35	hit-skill	Frozen Orb	9	11	hit-skill	Charged Bolt	11	9	0
 Runeword4	The Beast	1		axe	scep	hamm								r30	r03	r22	r23	r17		swing2		40	40	aura	Fanaticism	9	9	dmg%		240	270	str		25	40	charged	Summon Grizzly	5	13	oskill	Wearbear	3	3	oskill	Shape Shifting	3	3	0
-Runeword123	Serendipity																																															0
+Runeword123	Serendipity	1		weap								ww	Serendipity	r31	r30	r21	r13	r11		dmg		300	350	oskill	Teleport	1	1	hit-skill	Life Tap	18	12	all-stat		15	15	mag%		80	100	allskills		2	3	aura	Vigor	10	10	0
 Runeword124	Shadow																																															0
 Runeword125	Shadow of Doubt																																															0
 Runeword127	Siren's Song																																															0
@@ -51,7 +51,7 @@ Runeword129	Sorrow																																															0
 Runeword130	Spirit	1	1	swor	shld								TalThulOrtAmn	r07	r10	r09	r11			balance3		55	55	mana		89	112	ac-miss		250	250	vit		22	22	cast3		25	35	abs-mag		3	8	allskills		2	2	0
 Runeword131	Splendor	1		shld										r05	r17					light		3	3	gold%		50	50	mag%		20	20	ac%		60	100	block2		20	20	cast2		10	10	allskills		1	1	0
 Runeword132	Starlight																																															0
-Runeword135	Still Water																																															0
+Runeword135	Still Water	1		shld								ww	Still Water	r29	r27	r12				hit-skill	Static Field	25	25	aura	Conviction	4	8	res-all		25	35	res-all-max		5	5	abs-cold%		10	10	abs-ltng%		10	10	abs-fire%		10	10	0
 Runeword30	Duress	1		tors									ShaelUmThul	r13	r22	r10				dmg-cold	50	37	133	dmg%		10	20	ac%		150	200	balance2		20	20	openwounds		33	33	crush		15	15	stamdrain		-20	-20	0
 Runeword138	Storm																																															0
 Runeword140	Tempest																																															0
@@ -61,20 +61,20 @@ Runeword90	Nightfall																																															0
 Runeword91	Oath	1	1	swor	axe	mace							ShaelPulMalLum	r13	r21	r23	r17			dmg%		210	340	swing1		30	30	hit-skill	Bone Spirit	30	20	charged	IronGolem	14	17	charged	Heart of Wolverine	20	16	abs-mag		10	15	indestruct		1	1	0
 Runeword92	Obedience	1	1	pole									HelKoThulEthFal	r15	r18	r10	r05	r19		dmg%		370	370	crush		40	40	kill-skill	enchant	30	21	pierce-fire		25	25	ac		200	300	balance3		40	40	res-all		20	30	0
 Runeword93	Oblivion																																															0
-Runeword94	Obsession																																															0
+Runeword94	Obsession	1		shld	tors							ww	Obsession	r31	r29	r22	r18			balance3		35	45	aura	Conviction	18	25	ac-miss		300	300	allskills		2	2	cast3		55	55	res-all		35	35	ac		700	775	0
 Runeword49	Harmony	1	1	miss									TirIthSolKo	r03	r06	r12	r18			dmg%		200	275	dmg-elem		55	160	charged	Revive	25	20	aura	Vigor	10	10	oskill	Valkyrie	2	6	regen-mana		20	20	light		2	2	0
-Runeword50	Hatred																																															0
+Runeword50	Hatred	1		ashd	shld							ww	Hatred	r29	r26	r23	r19			hit-skill	Decrepify	10	2	dmg		100	200	slow		33	33	dmg-fire		1	500	dmg-cold		1	500	dmg-ltng		1	500	openwounds		25	25	0
 Runeword40	Flickering Flame																																															0
 Runeword41	Fortitude	1	1	weap	tors								ElSolDolLo	r01	r12	r14	r28			ac%		200	200	dmg%		300	300	cast3		25	25	gethit-skill	Chilling Armor	20	15	dmg-to-mana		12	12	hp/lvl		8	12	res-all		25	30	0
 Runeword42	Fortune's Favor																																															0
 Runeword89	Nature's Kingdom																																															0
-Runeword46	Glory																																															0
+Runeword46	Glory	1		tors								ww	Glory	r25	r18	r16				allskills		1	2	block2		10	15	all-stats		15	15	mana/lvl	12			hp/lvl	12			ac%		150	200					0
 Runeword38	Faith	1	1	miss									OhmJahLemEld	r27	r31	r20	r02			dmg%		280	280	att%		300	300	dmg-fire		120	120	res-all		15	15	aura	fanaticism	12	15	reanimate	1	10	10	allskills		1	2	0
 Runeword43	Amity																																															0
 Runeword2	Armageddon																																															0
 Runeword3	Authority																																															0
-Runeword5	Beauty																																															0
-Runeword7	Blood			helm																																												0
+Runeword5	Beauty	1		tors	shld	weap						ww	Beauty	r33	r31	r23	r22			dmg%		300	400	att-skill	Amplify Damage	20	12	res-all		35	35	ac%		200	250	balance3		30	30	allskills		2	2	heal-kill		12	15	0
+Runeword7	Blood																																															0
 Runeword8	Bone	1		tors									SolUmUm	r12	r22	r22				hit-skill	Bone Spear	15	10	gethit-skill	Bone Armor	15	10	nec		2	2	mana		100	150													0
 Runeword10	Brand	1	1	miss									JahLoMalGul	r31	r28	r23	r25			dmg%		260	340	dmg-demon		280	330	hit-skill	Bone Spear	100	18	gethit-skill	Amplify Damage	35	14	knock		1	1	noheal		1	1	explosivearrow		15	15	0
 Runeword12	Broken Promise																																															0
@@ -109,10 +109,10 @@ Runeword67	Knight's Vigil																																															0
 Runeword69	Last Wish	1	1	swor	hamm	axe							JahMalJahSurJahBer	r31	r23	r31	r29	r31	r30	dmg%		330	375	att-skill	Charged Bolt	20	20	hit-skill	Life Tap	10	18	gethit-skill	Fade	6	11	crush		40	50	mag%/lvl	4			aura	Might	17	17	0
 Runeword70	Law																																															0
 Runeword71	Lawbringer	1	1	swor	hamm	scep							AmnLemKo	r11	r20	r18				dmg-cold		130	180	dmg-fire		150	210	aura	Sanctuary	16	18	hit-skill	Decrepify	20	15	ac-miss		200	250	rip		1	1	reduce-ac		50	50	0
-Runeword73	Lightning																																															0
+Runeword73	Lightning	1		helm	circ	shld						ww	Lightning	r33	r28	r24				allskills		1	2	cast3		25	25	all-stats		15	15	res-ltng-max		5	5	extra-ltng		20	35	oskill	Lightning	3	3	oskill	Chain Lightning	3	3	0
 Runeword77	Loyalty																																															0
 Runeword78	Lust																																															0
-Runeword79	Madness																																															0
+Runeword79	Madness	1		helm	circ	shld						ww	Madness	r21	r23	r32				ac		100	100	cast2		25	25	allskills		1	1	oskill	Lower Resist	12	16	pierce-ltng		15	20	pierce-cold		15	20	pierce-fire		15	20	0
 Runeword84	Mist																																															0
 Runeword85	Morning Dew																																															0
 Runeword86	Mystery																																															0
@@ -133,19 +133,19 @@ Runeword109	Pride	1	1	pole									ChamSurIoLo	r32	r29	r16	r28			dmg-dem/lvl	8		
 Runeword110	Principle	1		tors									RalGulEld	r08	r25	r02				hit-skill	Holy Bolt	100	5	pal		2	2	hp		100	150	dmg-undead		50	50													0
 Runeword111	Prowess in Battle																																															0
 Runeword112	Prudence	1		tors										r23	r03					ac%		140	170	red-mag		10	10	red-dmg		3	3	res-all		25	35	balance2		25	25	rep-dur	25			light		1	1	0
-Runeword113	Punishment																																															0
+Runeword113	Punishment	1		orb	staf							ww	Punishment	r33	r26	r14				aura	Meditation	12	17	sor		2	3	cast3		35	35	res-all		25	35	extra-ltng		15	25	pierce-ltng		15	25	oskill	Fist of the Heavens	25	30	0
 Runeword114	Purity																																															0
 Runeword115	Question																																															0
 Runeword117	Rain	1		tors									OrtMalIth	r09	r23	r06				hit-skill	Twister	5	15	gethit-skill	Cyclone Armor	5	15	dru		2	2	mana		100	150													0
 Runeword118	Reason																																															0
-Runeword119	Red																																															0
+Runeword119	Red	1		shld	tors							ww	Red	r31	r26	r23	r16			allskills		2	2	cast3		25	25	block		15	20	pierce-fire		20	30	extra-fire		30	40	res-all		20	30	fireskill		2	2	0
 Runeword121	Rift	1	1	pole	scep								HelKoLemGul	r15	r18	r20	r25			dmg-mag		160	250	dmg-fire		60	180	dmg-to-mana		38	38	hit-skill	Tornado	20	16	att-skill	Frozen Orb	16	21	charged	Iron Maiden	40	15	all-stats		5	10	0
 Runeword76	The Lovers																																															0
 Runeword143	Thirst																																															0
 Runeword68	Thirst for Knowledge																																															0
 Runeword144	Thought																																															0
 Runeword145	Thunder																																															0
-Runeword146	Time																																															0
+Runeword146	Time	1		helm	circ							ww	Time	r25	r23	r22				aura	Vigor	3	8	swing3		20	30	cast3		20	30	balance2		10	20	addxp		10	15	mag%/lvl	12							0
 Runeword147	Tradition																																															0
 Runeword148	Treachery	1		tors									ShaelThulLem	r13	r10	r20				hit-skill	Venom	25	15	gethit-skill	Fade	5	15	ass		2	2	swing2		45	45													0
 Runeword149	Trust																																															0
