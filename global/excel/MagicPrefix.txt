@@ -316,119 +316,119 @@ Bahamut's	100	1		45		37				2	115	mana		91	120									1	cblu	rod	ring	amul	orb	c
 Zircon	100	1	1	3		2				2	115	mana		5	10									1	cblu	jewl												0	0	0
 Jacinth	100	1	1	17		12				2	115	mana		11	15									1	cblu	jewl												0	0	0
 Turquoise	100	1		29		21				2	115	mana		16	20									1	cblu	jewl														
-Shimmering	100	1		8	13	6				1	116	res-all		3	6									1	lpur	lcha												0	1280	500
-Shimmering	100	1		14	34	10				1	116	res-all		8	12									1	lpur	lcha												0	1280	1500
-Shimmering	100	1		35		27				1	116	res-all		13	15									1	lpur	lcha												0	1280	5000
-Shimmering	100	1		17	33	12				1	116	res-all		3	5									1	lpur	mcha												0	1280	1500
-Shimmering	100	1		34		26				1	116	res-all		6	8									1	lpur	mcha												0	1280	5000
-Shimmering	100	1		33		25				1	116	res-all		3	5									1	lpur	scha												0	1280	10000
-Shimmering	100	1	1	6		4				5	116	res-all		3	7									1	lpur	shld												0	1280	500
-Rainbow	100	1	1	18		13				5	116	res-all		8	11									1	lpur	shld												0	1280	2000
-Scintillating	100	1	1	28		21				5	116	res-all		12	15									1	lpur	shld												0	1280	4000
-Prismatic	1	1	1	39		31				4	116	res-all		16	20									1	lpur	shld												0	1280	8000
-Chromatic	100	1		50		42				4	116	res-all		21	30									1	lpur	shld												0	1280	16000
-Shimmering	100	1	1	8		6				5	116	res-all		3	7									1	lpur	amul	circ											0	1280	3000
-Rainbow	100	1	1	21		15				5	116	res-all		8	11									1	lpur	amul	circ											0	1280	6000
-Scintillating	100	1	1	34		25				5	116	res-all		12	15									1	lpur	amul	circ											0	1280	12000
-Prismatic	1	1	1	42		31				4	116	res-all		16	20									1	lpur	amul	circ											0	1280	24000
-Chromatic	100	1		55		41				3	116	res-all		21	30									1	lpur	amul	circ											0	1280	32000
-Shimmering	100	1	1	45		37				3	116	res-all		3	7									1	lpur	ring												0	1280	4000
-Rainbow	100	1	1	56		48				2	116	res-all		8	11									1	lpur	ring												0	1280	8000
-Scintillating	100	1		67		59				2	116	res-all		12	15									1	lpur	ring												0	1280	16000
-Shimmering	100	1	1	16		12				1	116	res-all		5	10									1	lpur	jewl												0	1280	3000
-Scintillating	100	1		34		26				1	116	res-all		11	15									1	lpur	jewl												0	1280	8000
-Azure	100	1	1	1		1				2	117	res-cold		7	15											lcha												0	0	0
-Lapis	100	1	1	10		7				2	117	res-cold		16	20											lcha												0	0	0
-Cobalt	100	1	1	20		15				2	117	res-cold		21	25									1	lblu	lcha												0	0	0
-Sapphire	100	1		30		22				2	117	res-cold		26	30									1	lblu	lcha												0	0	0
-Azure	100	1	1	1		1				2	117	res-cold		4	7											mcha												0	0	0
+Shimmering	100	1		8	13	6				1	116	res-all		3	9			3						1	lpur	lcha												0	1280	500
+Shimmering	100	1		14	34	10				1	116	res-all		8	15									1	lpur	lcha												0	1280	1500
+Shimmering	100	1		35		27				1	116	res-all		13	18	54								1	lpur	lcha												0	1280	5000
+Shimmering	100	1		17	33	12				1	116	res-all		6	9									1	lpur	mcha												0	1280	1500
+Shimmering	100	1		34		26				1	116	res-all		10	15	45								1	lpur	mcha												0	1280	5000
+Shimmering	100	1		33		25				1	116	res-all		3	8	24								1	lpur	scha												0	1280	10000
+Shimmering	100	1	1	6		4				5	116	res-all		6	9									1	lpur	shld												0	1280	500
+Rainbow	100	1	1	18		13				5	116	res-all		10	15									1	lpur	shld												0	1280	2000
+Scintillating	100	1	1	28		21				5	116	res-all		16	22									1	lpur	shld												0	1280	4000
+Prismatic	1	1	1	39		31				4	116	res-all		23	30									1	lpur	shld												0	1280	8000
+Chromatic	100	1		50		42				4	116	res-all		31	40	120								1	lpur	shld												0	1280	16000
+Shimmering	100	1	1	8		6				5	116	res-all		6	10									1	lpur	amul	circ											0	1280	3000
+Rainbow	100	1	1	21		15				5	116	res-all		11	15									1	lpur	amul	circ											0	1280	6000
+Scintillating	100	1	1	34		25				5	116	res-all		16	20									1	lpur	amul	circ											0	1280	12000
+Prismatic	1	1	1	42		31				4	116	res-all		21	25									1	lpur	amul	circ											0	1280	24000
+Chromatic	100	1		55		41				3	116	res-all		26	35	105								1	lpur	amul	circ											0	1280	32000
+Shimmering	100	1	1	45		37				3	116	res-all		6	10									1	lpur	ring												0	1280	4000
+Rainbow	100	1	1	56		48				2	116	res-all		11	15									1	lpur	ring												0	1280	8000
+Scintillating	100	1		67		59				2	116	res-all		16	20									1	lpur	ring												0	1280	16000
+Shimmering	100	1	1	16		12				1	116	res-all		11	15									1	lpur	jewl												0	1280	3000
+Scintillating	100	1		34		26				1	116	res-all		16	20	60								1	lpur	jewl												0	1280	8000
+Azure	100	1	1	1		1				1	117	res-cold		7	15											lcha												0	0	0
+Lapis	100	1	1	10		7				2	117	res-cold		16	25											lcha												0	0	0
+Cobalt	100	1	1	20		15				2	117	res-cold		26	30									1	lblu	lcha												0	0	0
+Sapphire	100	1		30		22				2	117	res-cold		31	40									1	lblu	lcha												0	0	0
+Azure	100	1	1	1		1				1	117	res-cold		4	7											mcha												0	0	0
 Lapis	100	1	1	16		12				2	117	res-cold		8	10											mcha												0	0	0
-Cobalt	100	1	1	25		18				2	117	res-cold		11	12									1	lblu	mcha												0	0	0
-Sapphire	100	1		35		27				2	117	res-cold		13	15									1	lblu	mcha												0	0	0
-Azure	100	1	1	1		1				2	117	res-cold		3	5											scha												0	0	0
-Lapis	100	1	1	14		10				2	117	res-cold		6	7											scha												0	0	0
-Cobalt	100	1	1	27		20				2	117	res-cold		8	9									1	lblu	scha												0	0	0
-Sapphire	100	1		40		32				2	117	res-cold		10	11									1	lblu	scha												0	0	0
-Azure	1	1	1	5		3				2	117	res-cold		5	10											armo	weap	ring	amul	orb	circ							0	0	0
+Cobalt	100	1	1	25		18				2	117	res-cold		11	15									1	lblu	mcha												0	0	0
+Sapphire	100	1		35		27				2	117	res-cold		16	20									1	lblu	mcha												0	0	0
+Azure	100	1	1	1		1				1	117	res-cold		3	5											scha												0	0	0
+Lapis	100	1	1	14		10				2	117	res-cold		6	9											scha												0	0	0
+Cobalt	100	1	1	27		20				2	117	res-cold		10	12									1	lblu	scha												0	0	0
+Sapphire	100	1		40		32				2	117	res-cold		13	15									1	lblu	scha												0	0	0
+Azure	1	1	1	5		3				2	117	res-cold		11	20											armo	weap	ring	amul	orb	circ							0	0	0
 Lapis	1	1	1	12		9				4	117	res-cold		11	20											armo	ring	amul	orb	circ								0	0	0
-Lapis	1	1	1	35		26				2	117	res-cold		11	20											weap							orb					0	0	0
+Lapis	1	1	1	35		26				2	117	res-cold		21	30											weap							orb					0	0	0
 Cobalt	1	1	1	18		13				3	117	res-cold		21	30											armo	ring	amul	orb	circ								0	0	0
-Cobalt	1	1	1	55		41				2	117	res-cold		21	30											weap							orb					0	0	0
-Sapphire	1	1	1	25		18				3	117	res-cold		31	40									1	lblu	rod	boot	amul	orb	circ								0	0	0
-Lapis Lazuli	100	1	1	2		1				4	117	res-cold		5	15									1	lblu	jewl												0	0	0
-Sapphire	100	1	1	19		14				4	117	res-cold		16	30									1	lblu	jewl												0	0	0
+Cobalt	1	1	1	55		41				2	117	res-cold		31	40											weap							orb					0	0	0
+Sapphire	1	1	1	25		18				3	117	res-cold		41	50									1	lblu	rod	boot	amul	orb	circ								0	0	0
+Lapis Lazuli	100	1	1	2		1				4	117	res-cold		10	25									1	lblu	jewl												0	0	0
+Sapphire	100	1	1	19		14				4	117	res-cold		26	40									1	lblu	jewl												0	0	0
 Crimson	100	1	1	1		1				2	118	res-fire		7	15											lcha												0	0	0
-Russet	100	1	1	10		7				2	118	res-fire		16	20											lcha												0	0	0
-Garnet	100	1	1	20		15				2	118	res-fire		21	25									1	lred	lcha												0	0	0
-Ruby	100	1		30		22				2	118	res-fire		26	30									1	lred	lcha												0	0	0
+Russet	100	1	1	10		7				2	118	res-fire		16	25											lcha												0	0	0
+Garnet	100	1	1	20		15				2	118	res-fire		26	30									1	lred	lcha												0	0	0
+Ruby	100	1		30		22				2	118	res-fire		31	40									1	lred	lcha												0	0	0
 Crimson	100	1	1	1		1				2	118	res-fire		4	7											mcha												0	0	0
 Russet	100	1	1	16		12				2	118	res-fire		8	10											mcha												0	0	0
-Garnet	100	1	1	25		18				2	118	res-fire		11	12									1	lred	mcha												0	0	0
-Ruby	100	1		35		27				2	118	res-fire		13	15									1	lred	mcha												0	0	0
+Garnet	100	1	1	25		18				2	118	res-fire		11	15									1	lred	mcha												0	0	0
+Ruby	100	1		35		27				2	118	res-fire		16	20									1	lred	mcha												0	0	0
 Crimson	100	1	1	1		1				2	118	res-fire		3	5											scha												0	0	0
-Russet	100	1	1	14		10				2	118	res-fire		6	7									1	lred	scha												0	0	0
-Garnet	100	1		27		20				2	118	res-fire		8	9									1	lred	scha												0	0	0
-Ruby	100	1	1	40		32				2	118	res-fire		10	11											scha												0	0	0
-Russet	1	1	1	12		9				4	118	res-fire		11	20											armo	ring	amul	orb	circ								0	0	0
-Russet	1	1	1	35		26				1	118	res-fire		11	20											weap							orb					0	0	0
-Garnet	1	1	1	18		13				3	118	res-fire		21	30											armo	ring	amul	orb	circ								0	0	0
-Garnet	1	1	1	55		41				1	118	res-fire		21	30											weap							orb					0	0	0
-Ruby	1	1	1	25		18				3	118	res-fire		31	40									1	lred	rod	boot	amul	orb	circ								0	0	0
-Garnet	100	1	1	2		1				4	117	res-fire		5	15									1	lred	jewl												0	0	0
-Ruby	100	1	1	18		13				4	117	res-fire		16	30									1	lred	jewl												0	0	0
+Russet	100	1	1	14		10				2	118	res-fire		6	9									1	lred	scha												0	0	0
+Garnet	100	1		27		20				2	118	res-fire		10	12									1	lred	scha												0	0	0
+Ruby	100	1	1	40		32				2	118	res-fire		13	15											scha												0	0	0
+Russet	1	1	1	12		9				2	118	res-fire		21	30											armo	ring	amul	orb	circ								0	0	0
+Russet	1	1	1	35		26				1	118	res-fire		21	30											weap							orb					0	0	0
+Garnet	1	1	1	18		13				3	118	res-fire		31	40											armo	ring	amul	orb	circ								0	0	0
+Garnet	1	1	1	55		41				1	118	res-fire		31	40											weap							orb					0	0	0
+Ruby	1	1	1	25		18				3	118	res-fire		41	50									1	lred	rod	boot	amul	orb	circ								0	0	0
+Garnet	100	1	1	2		1				4	117	res-fire		10	25									1	lred	jewl												0	0	0
+Ruby	100	1	1	18		13				4	117	res-fire		26	40									1	lred	jewl												0	0	0
 Tangerine	100	1	1	1		1				2	119	res-ltng		7	15											lcha												0	0	0
-Ocher	100	1	1	10		7				2	119	res-ltng		16	20											lcha												0	0	0
-Coral	100	1	1	20		15				2	119	res-ltng		21	25									1	lyel	lcha												0	0	0
-Amber	100	1		30		22				2	119	res-ltng		26	30									1	lyel	lcha												0	0	0
+Ocher	100	1	1	10		7				2	119	res-ltng		16	25											lcha												0	0	0
+Coral	100	1	1	20		15				2	119	res-ltng		26	30									1	lyel	lcha												0	0	0
+Amber	100	1		30		22				2	119	res-ltng		31	40									1	lyel	lcha												0	0	0
 Tangerine	100	1	1	1		1				2	119	res-ltng		4	7											mcha												0	0	0
 Ocher	100	1	1	16		12				2	119	res-ltng		8	10											mcha												0	0	0
-Coral	100	1	1	25		18				2	119	res-ltng		11	12									1	lyel	mcha												0	0	0
-Amber	100	1		35		27				2	119	res-ltng		13	15									1	lyel	mcha												0	0	0
+Coral	100	1	1	25		18				2	119	res-ltng		11	15									1	lyel	mcha												0	0	0
+Amber	100	1		35		27				2	119	res-ltng		16	20									1	lyel	mcha												0	0	0
 Tangerine	100	1	1	1		1				2	119	res-ltng		3	5											scha												0	0	0
-Ocher	100	1	1	14		10				2	119	res-ltng		6	7											scha												0	0	0
-Coral	100	1	1	27		20				2	119	res-ltng		8	9									1	lyel	scha												0	0	0
-Amber	100	1		40		32				2	119	res-ltng		10	11									1	lyel	scha												0	0	0
-Tangerine	1	1	1	5		3				4	119	res-ltng		5	10											armo	weap	ring	amul	orb	circ							0	0	0
-Ocher	1	1	1	12		9				4	119	res-ltng		11	20											armo	ring	amul	orb	circ								0	0	0
-Ocher	1	1	1	35		26				1	119	res-ltng		11	20											weap							orb					0	0	0
-Coral	1	1	1	18		13				3	119	res-ltng		21	30											armo	ring	amul	orb	circ								0	0	0
-Coral	1	1	1	55		41				1	119	res-ltng		21	30											weap							orb					0	0	0
-Amber	1	1	1	25		18				3	119	res-ltng		31	40									1	lyel	rod	boot	amul	orb	circ								0	0	0
-Camphor	100	1	1	2		1				4	117	res-ltng		5	15									1	lyel	jewl												0	0	0
-Ambergris	100	1	1	19		14				4	117	res-ltng		16	30									1	lyel	jewl												0	0	0
+Ocher	100	1	1	14		10				2	119	res-ltng		6	9											scha												0	0	0
+Coral	100	1	1	27		20				2	119	res-ltng		10	12									1	lyel	scha												0	0	0
+Amber	100	1		40		32				2	119	res-ltng		13	15									1	lyel	scha												0	0	0
+Tangerine	1	1	1	5		3				4	119	res-ltng		11	20											armo	weap	ring	amul	orb	circ							0	0	0
+Ocher	1	1	1	12		9				4	119	res-ltng		21	30											armo	ring	amul	orb	circ								0	0	0
+Ocher	1	1	1	35		26				1	119	res-ltng		21	30											weap							orb					0	0	0
+Coral	1	1	1	18		13				3	119	res-ltng		31	40											armo	ring	amul	orb	circ								0	0	0
+Coral	1	1	1	55		41				1	119	res-ltng		31	40											weap							orb					0	0	0
+Amber	1	1	1	25		18				3	119	res-ltng		41	50									1	lyel	rod	boot	amul	orb	circ								0	0	0
+Camphor	100	1	1	2		1				4	117	res-ltng		10	25									1	lyel	jewl												0	0	0
+Ambergris	100	1	1	19		14				4	117	res-ltng		26	40									1	lyel	jewl												0	0	0
 Beryl	100	1	1	1		1				2	120	res-pois		7	15											lcha												0	0	0
-Viridian	100	1	1	10		7				2	120	res-pois		16	20											lcha												0	0	0
-Jade	100	1	1	20		15				2	120	res-pois		21	25									1	cgrn	lcha												0	0	0
-Emerald	100	1		30		22				2	120	res-pois		26	30									1	cgrn	lcha												0	0	0
+Viridian	100	1	1	10		7				2	120	res-pois		16	25											lcha												0	0	0
+Jade	100	1	1	20		15				2	120	res-pois		26	30									1	cgrn	lcha												0	0	0
+Emerald	100	1		30		22				2	120	res-pois		31	40									1	cgrn	lcha												0	0	0
 Beryl	100	1	1	1		1				2	120	res-pois		4	7											mcha												0	0	0
 Viridian	100	1	1	16		12				2	120	res-pois		8	10											mcha												0	0	0
-Jade	100	1	1	25		18				2	120	res-pois		11	12									1	cgrn	mcha												0	0	0
-Emerald	100	1		35		27				2	120	res-pois		13	15									1	cgrn	mcha												0	0	0
+Jade	100	1	1	25		18				2	120	res-pois		11	15									1	cgrn	mcha												0	0	0
+Emerald	100	1		35		27				2	120	res-pois		16	20									1	cgrn	mcha												0	0	0
 Beryl	100	1	1	1		1				2	120	res-pois		3	5											scha												0	0	0
-Viridian	100	1	1	14		10				2	120	res-pois		6	7											scha												0	0	0
-Jade	100	1	1	27		20				2	120	res-pois		8	9									1	cgrn	scha												0	0	0
-Emerald	100	1		40		32				2	120	res-pois		10	11									1	cgrn	scha												0	0	0
-Beryl	1	1	1	5		3				4	120	res-pois		5	10											armo	weap	ring	amul	orb	circ							0	0	0
-Viridian	1	1	1	12		9				4	120	res-pois		11	20											armo	ring	amul	orb	circ								0	0	0
-Viridian	1	1	1	35		26				1	120	res-pois		11	20											weap							orb					0	0	0
-Jade	1	1	1	18		13				3	120	res-pois		21	30											armo	ring	amul	orb	circ								0	0	0
-Jade	1	1	1	55		41				1	120	res-pois		21	30											weap							orb					0	0	0
-Emerald	1	1	1	25		18				3	120	res-pois		31	40									1	cgrn	rod	boot	amul	orb	circ								0	0	0
-Beryl	100	1	1	2		1				4	117	res-pois		5	15									1	cgrn	jewl												0	0	0
-Jade	100	1	1	19		14				4	117	res-pois		16	30									1	cgrn	jewl												0	0	0
-Triumphant	1	1	1	3		2				4	121	mana-kill		1	1											weap	ring	circ										0	0	0
-Victorious	100	1	1	17		12				4	121	mana-kill		2	5											weap	circ											0	0	0
-Aureolin	100	1	1	22		16				4	121	mana-kill		1	3											jewl												0	0	0
+Viridian	100	1	1	14		10				2	120	res-pois		6	9											scha												0	0	0
+Jade	100	1	1	27		20				2	120	res-pois		10	12									1	cgrn	scha												0	0	0
+Emerald	100	1		40		32				2	120	res-pois		13	15									1	cgrn	scha												0	0	0
+Beryl	1	1	1	5		3				4	120	res-pois		11	20											armo	weap	ring	amul	orb	circ							0	0	0
+Viridian	1	1	1	12		9				4	120	res-pois		21	30											armo	ring	amul	orb	circ								0	0	0
+Viridian	1	1	1	35		26				1	120	res-pois		21	30											weap							orb					0	0	0
+Jade	1	1	1	18		13				3	120	res-pois		31	40											armo	ring	amul	orb	circ								0	0	0
+Jade	1	1	1	55		41				1	120	res-pois		31	40											weap							orb					0	0	0
+Emerald	1	1	1	25		18				3	120	res-pois		41	50									1	cgrn	rod	boot	amul	orb	circ								0	0	0
+Beryl	100	1	1	2		1				4	117	res-pois		10	25									1	cgrn	jewl												0	0	0
+Jade	100	1	1	19		14				4	117	res-pois		26	40									1	cgrn	jewl												0	0	0
+Triumphant	1	1	1	3		2				4	121	mana-kill		2	4											weap	ring	circ										0	0	0
+Victorious	100	1	1	17		12				4	121	mana-kill		3	6											weap	circ											0	0	0
+Aureolin	100	1	1	22		16				4	121	mana-kill		2	4											jewl												0	0	0
 Mechanist's	100	1	1	10		7				3	122	sock		1	2											weap	shld	helm	tors	circ			thro					0	0	0
 Artificer's	100	1		33		25				2	122	sock	3													weap	shld	helm	tors				thro					0	0	0
-Jeweler's	100	1		55		47				1	122	sock	4													weap	shld	helm	tors				thro					0	0	0
+Jeweler's	100	1		55		47				2	122	sock	4													weap	shld	helm	tors				thro					0	0	0
 Assamic	100	1	1	3		1				2	123	att-demon		25	50	dmg-demon		10	25							weap	circ						wand	orb				0	0	0
 Arcadian	100	1	1	15		11				2	123	att-demon		51	100	dmg-demon		26	50							weap	circ						wand	orb				0	0	0
 Unearthly	100	1	1	25		18				1	123	att-demon		101	150	dmg-demon		51	100							weap							wand	orb				0	0	0
 Astral	100	1	1	35		26				1	123	att-demon		151	200	dmg-demon		101	150							weap							wand	orb				0	0	0
 Elysian	100	1	1	45		33				1	123	att-demon		201	300	dmg-demon		151	200					1	dgld	weap							wand	orb				0	0	0
 Celestial	100	1		55		41				1	123	att-demon		301	400	dmg-demon		201	300					1	dgld	weap							wand	orb				0	0	0
-Diamond	100	1	1	26		19				1	123	att-demon		25	50	dmg-demon		25	40							jewl												0	0	0
+Diamond	100	1	1	26		19				1	123	att-demon		50	100	dmg-demon		50	80							jewl												0	0	0
 Fletcher's	100	1		50		42	ama			1	125	skilltab	0	1	1											lcha												0	0	0
 Acrobat's	100	1		50		42	ama			1	125	skilltab	1	1	1											lcha												0	0	0
 Harpoonist's	100	1		50		42	ama			1	125	skilltab	2	1	1											lcha												0	0	0
