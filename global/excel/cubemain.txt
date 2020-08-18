@@ -391,24 +391,8 @@ WW Collector #08	1			100					3	"armo,nor"	run3	gem4					"usetype,uni"	99								
 制作无形	1			100					4	"any,mag"	"gem3,qty=3"						"usetype,mag"			100	ethereal	5		1	1																																																																															0
 制作无形	1								4	"any,rar"	"run1,qty=3"						"usetype,rar"			100	ethereal	5		1	1																																																																															0
 																																																																																																								
-[物品测试]START	1			100					1	moil							"lwb,uni"	99																																																																																						0
+[物品测试]START	1			100					3	weap	moil	rvl					"usetype,crf"		50	50	att%/lvl		2			att/lvl		2			hp/lvl		8			ac%/lvl		8																																																																		0
 [        ]	1			100					1	tsc							"sbw,uni"	99																																																																																						0
 [        ]	1			100					1	isc							"hbw,uni"	99																																																																																						0
 [        ]	1			100					1	rvl							"lbw,uni"	99																																																																																						0
 [物品测试]START	1			100					1	yps							"cbw,uni"	99																																																																																						0
-																																																																																																								
-																																																																																																								
-																																																																																																								
-																																																																																																								
-															sbw																																																																																									
-															hbw																																																																																									
-															lbw																																																																																									
-															cbw																																																																																									
-															sbb																																																																																									
-															lbb																																																																																									
-															swb																																																																																									
-															lwb																																																																																									
-															lxb																																																																																									
-															mxb																																																																																									
-															hxb																																																																																									
-															rxb																																																																																									

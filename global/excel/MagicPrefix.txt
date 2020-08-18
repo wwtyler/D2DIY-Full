@@ -513,32 +513,32 @@ Shadow	100	1		60		45	ass			1	125	skilltab	19	3	5									1	lgld	h2h	amul	helm	ci
 Shogukusha's	100	1	1	20		15	ass			1	125	skilltab	20	1	3											h2h	amul	glov	circ									0	0	0
 Sensei's	100	1	1	40		30	ass			1	125	skilltab	20	2	4									1	lgld	h2h	amul	glov	circ									0	0	0
 Kenshi's	100	1		60		45	ass			1	125	skilltab	20	3	5									1	lgld	h2h	amul	glov	circ									0	0	0
-Miocene	100			1		1				1	101	ac/lvl	6											1	whit	tors												0	0	0
-Miocene	100		1	1		1				1	101	ac/lvl	1											1	whit	glov	boot	belt	shld									0	0	0
-Oligocene	100		1	10		7				1	101	ac/lvl	9											1	whit	tors												0	0	0
-Oligocene	100		1	10		7				1	101	ac/lvl	2											1	whit	glov	boot	belt	shld									0	0	0
-Eocene	100		1	20		15				1	101	ac/lvl	18											1	whit	tors												0	0	0
-Eocene	100		1	20		15				1	101	ac/lvl	3											1	whit	glov	boot	belt	shld									0	0	0
+Miocene	100	1		1		1				1	101	ac/lvl	6											1	whit	tors												0	0	0
+Miocene	100	1	1	1		1				1	101	ac/lvl	2											1	whit	glov	boot	belt	shld									0	0	0
+Oligocene	100	1	1	10		7				1	101	ac/lvl	9											1	whit	tors												0	0	0
+Oligocene	100	1	1	10		7				1	101	ac/lvl	2											1	whit	glov	boot	belt	shld									0	0	0
+Eocene	100	1	1	20		15				1	101	ac/lvl	18											1	whit	tors												0	0	0
+Eocene	100	1	1	20		15				1	101	ac/lvl	3											1	whit	glov	boot	belt	shld									0	0	0
 Paleocene	100	1	1	30		22				4	101	ac/lvl	24											1	whit	tors												0	0	0
 Paleocene	100	1	1	30		22				3	101	ac/lvl	4											1	whit	glov	boot	belt	shld									0	0	0
-Knave's	100			1		1				1	111	dmg/lvl	4			att/lvl	4							1	whit	weap							staf	wand	orb			0	0	0
-Jack's	100		1	10		7				1	111	dmg/lvl	6			att/lvl	6							1	whit	weap							staf	wand	orb			0	0	0
-Jester's	100		1	20		15				1	111	dmg/lvl	8			att/lvl	8							1	whit	weap							staf	wand	orb			0	0	0
-Joker's	100		1	35		26				1	111	dmg/lvl	10			att/lvl	10							1	whit	weap							staf	wand	orb			0	0	0
-Trump	100	1	1	50		37				1	111	dmg/lvl	12			att/lvl	12							1	whit	weap							staf	wand	orb			0	0	0
-Loud	100			1		1				1	105	dmg/lvl	6											1	whit	weap							staf	wand	orb			0	0	0
-Calling	100		1	10		7				1	105	dmg/lvl	8											1	whit	weap							staf	wand	orb			0	0	0
-Yelling	100		1	20		15				1	105	dmg/lvl	10											1	whit	weap							staf	wand	orb			0	0	0
-Shouting	100		1	35		26				1	105	dmg/lvl	12											1	whit	weap							staf	wand	orb			0	0	0
+Knave's	100	1		1		1				1	111	dmg/lvl	4			att/lvl	1							1	whit	weap							staf	wand	orb			0	0	0
+Jack's	100	1	1	10		7				1	111	dmg/lvl	6			att/lvl	2							1	whit	weap							staf	wand	orb			0	0	0
+Jester's	100	1	1	20		15				1	111	dmg/lvl	8			att/lvl	3							1	whit	weap							staf	wand	orb			0	0	0
+Joker's	100	1	1	35		26				1	111	dmg/lvl	10			att/lvl	4							1	whit	weap							staf	wand	orb			0	0	0
+Trump	100	1	1	50		37				1	111	dmg/lvl	12			att/lvl	5							1	whit	weap							staf	wand	orb			0	0	0
+Loud	100	1		1		1				1	105	dmg/lvl	6											1	whit	weap							staf	wand	orb			0	0	0
+Calling	100	1	1	10		7				1	105	dmg/lvl	8											1	whit	weap							staf	wand	orb			0	0	0
+Yelling	100	1	1	20		15				1	105	dmg/lvl	10											1	whit	weap							staf	wand	orb			0	0	0
+Shouting	100	1	1	35		26				1	105	dmg/lvl	12											1	whit	weap							staf	wand	orb			0	0	0
 Gritty	100	1	1	50		37				1	105	dmg/lvl	14											1	whit	weap							staf	wand	orb			0	0	0
-Paradox	100		1	25		18				1	101	ac%/lvl	12											1	whit	tors												0	0	0
-Paradox	100		1	25		18				1	105	dmg%/lvl	12											1	whit	weap							staf	wand	orb			0	0	0
-Robineye	100			1		1				1	111	att/lvl	4											1	whit	weap							staf	wand	orb			0	0	0
-Sparroweye	100			10		7				1	111	att/lvl	6											1	whit	weap							staf	wand	orb			0	0	0
-Falconeye	100			20		15				1	111	att/lvl	8											1	whit	weap							staf	wand	orb			0	0	0
-Hawkeye	100	1		35		26				1	111	att/lvl	12											1	whit	weap							staf	wand	orb			0	0	0
-Eagleeye	100			50		37				1	111	att/lvl	16											1	whit	weap							staf	wand	orb			0	0	0
-Visionary	100	1	1	25		18				1	111	att%/lvl	2											1	whit	helm	miss											0	0	0
+Paradox	100	1	1	25		18				1	101	ac%/lvl	12											1	whit	tors												0	0	0
+Paradox	100	1	1	25		18				1	105	dmg%/lvl	12											1	whit	weap							staf	wand	orb			0	0	0
+Robineye	100	1	1	1		1				1	111	att/lvl	2											1	whit	weap							staf	wand	orb			0	0	0
+Sparroweye	100	1	1	10		7				1	111	att/lvl	3											1	whit	weap							staf	wand	orb			0	0	0
+Falconeye	100	1	1	20		15				1	111	att/lvl	4											1	whit	weap							staf	wand	orb			0	0	0
+Hawkeye	100	1	1	35		26				1	111	att/lvl	5											1	whit	weap							staf	wand	orb			0	0	0
+Eagleeye	100	1		50		37				1	111	att/lvl	6											1	whit	weap							staf	wand	orb			0	0	0
+Visionary	100	1	1	25		18				1	111	att%/lvl	3											1	whit	helm	miss											0	0	0
 Mnemonic	100	1	1	25		18				1	115	mana/lvl	8											1	cblu	helm												0	0	0
 Snowflake	100	1	1	25		18				3	137	cold-len		25	25	cold-min		12	18	cold-max		38	60	1	lblu	weap	circ											0	0	0
 Shivering	100	1	1	35		26				2	137	cold-len		50	50	cold-min		20	30	cold-max		62	90	1	lblu	weap												0	0	0
