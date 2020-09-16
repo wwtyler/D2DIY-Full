@@ -201,25 +201,30 @@ Token of Absolution	1			100					4	tes	ceh	bet	fed				toa																								
 [        ]	1			100					2	r31	wms						r30																																																																																							0
 [        ]	1			100					2	r32	wms						r31																																																																																							0
 [符文降级]END	1			100					2	r33	wms						r32																																																																																							0
-[宝石转符文]START	1			100					4	"skz,qty=4"							r18																																																																																							0
-[        ]	1			100					4	"gpw,qty=4"							r17																																																																																							0
-[        ]	1			100					4	"gpg,qty=4"							r16																																																																																							0
-[        ]	1			100					4	"gpy,qty=4"							r15																																																																																							0
-[        ]	1			100					4	"gpb,qty=4"							r14																																																																																							0
-[        ]	1			100					4	"gpr,qty=4"							r13																																																																																							0
-[宝石转符文]END	1			100					4	"gpv,qty=4"							r12																																																																																							0
+[宝石转符文]START	0			100					4	"skz,qty=4"							r18																																																																																							0
+[        ]	0			100					4	"gpw,qty=4"							r17																																																																																							0
+[        ]	0			100					4	"gpg,qty=4"							r16																																																																																							0
+[        ]	0			100					4	"gpy,qty=4"							r15																																																																																							0
+[        ]	0			100					4	"gpb,qty=4"							r14																																																																																							0
+[        ]	0			100					4	"gpr,qty=4"							r13																																																																																							0
+[宝石转符文]END	0			100					4	"gpv,qty=4"							r12																																																																																							0
 																																																																																																								
 																																																																																																								
 [传奇物品分解]START	1			100					2	"any,uni,qty=1"	"rvl,qty=1"						gem4	99																																																																																						0
-[        ]	1			100					4	"any,uni,qty=2"	"rvl,qty=2"						skz	99																																																																																						0
-[        ]	1			100					6	"any,uni,qty=3"	"rvl,qty=3"						run1	99																																																																																						0
+[        ]	1			100					4	"any,uni,qty=2"	"rvl,qty=2"						gem4	99																												gem4	99																																																									0
+[        ]	1			100					6	"any,uni,qty=3"	"rvl,qty=3"						gem4	99																												gem4	99																												gem4	99																												0
 [        ]	1			100					8	"any,uni,qty=4"	"rvl,qty=4"						"jew,rar"	99																																																																																						0
-[传奇物品分解]END	1			100					10	"any,uni,qty=5"	"rvl,qty=5"						run2	99																																																																																						0
-[套装物品分解]START	1			100					2	"any,set,qty=1"	"rvl,qty=1"						gem4	99																																																																																						0
-[        ]	1			100					4	"any,set,qty=2"	"rvl,qty=2"						skz	99																																																																																						0
-[        ]	1			100					6	"any,set,qty=3"	"rvl,qty=3"						run1	99																																																																																						0
+[        ]	1			100					2	"any,set,qty=1"	"rvl,qty=1"						gem4	99																																																																																						0
+[        ]	1			100					4	"any,set,qty=2"	"rvl,qty=2"						gem4	99																												gem4	99																																																									0
+[        ]	1			100					6	"any,set,qty=3"	"rvl,qty=3"						gem4	99																												gem4	99																												gem4	99																												0
 [        ]	1			100					8	"any,set,qty=4"	"rvl,qty=4"						"jew,rar"	99																																																																																						0
-[套装物品分解]END	1			100					10	"any,set,qty=5"	"rvl,qty=5"						run2	99																																																																																						0
+[        ]	1			100					4	"any,uni,qty=1"	"any,set,qty=1"	"rvl,qty=2"					gem4	99																												gem4	99																																																									0
+[        ]	1			100					6	"any,uni,qty=2"	"any,set,qty=1"	"rvl,qty=3"					gem4	99																												gem4	99																												gem4	99																												0
+[        ]	1			100					6	"any,uni,qty=1"	"any,set,qty=2"	"rvl,qty=3"					gem4	99																												gem4	99																												gem4	99																												0
+[        ]	1			100					8	"any,uni,qty=1"	"any,set,qty=3"	"rvl,qty=4"					"jew,rar"	99																																																																																						0
+[        ]	1			100					8	"any,uni,qty=2"	"any,set,qty=2"	"rvl,qty=4"					"jew,rar"	99																																																																																						0
+[套装物品分解]END	1			100					8	"any,uni,qty=3"	"any,set,qty=1"	"rvl,qty=4"					"jew,rar"	99																																																																																						0
+																																																																																																								
 [传奇物品打孔]	1			100					2	"any,uni"	"gem4,qty=1"						useitem				sock			1	1																																																																															0
 [套装物品打孔]	1			100					2	"any,set"	"skz,qty=1"						useitem				sock			1	1																																																																															0
 [防具打孔]	1			100					2	"tors,nor,nos"	"gem4,qty=1"						useitem				sock			1	1																																																																															0
@@ -230,12 +235,50 @@ Token of Absolution	1			100					4	tes	ceh	bet	fed				toa																								
 [        ]	1			100					3	"tors,hiq,nos"	"gem4,qty=2"						useitem				sock			2	2																																																																															0
 [        ]	1			100					4	"tors,hiq,nos"	"gem4,qty=3"						useitem				sock			3	3																																																																															0
 [        ]	1			100					5	"tors,hiq,nos"	"gem4,qty=4"						useitem				sock			4	4																																																																															0
+[        ]	1			100					2	"belt,nor,nos"	"gem4,qty=1"						useitem				sock			1	1																																																																															0
+[        ]	1			100					3	"belt,nor,nos"	"gem4,qty=2"						useitem				sock			2	2																																																																															0
+[        ]	1			100					2	"belt,hiq,nos"	"gem4,qty=1"						useitem				sock			1	1																																																																															0
+[        ]	1			100					3	"belt,hiq,nos"	"gem4,qty=2"						useitem				sock			2	2																																																																															0
+[        ]	1			100					2	"belt,mag,nos"	"gem4,qty=1"						useitem				sock			1	1																																																																															0
+[        ]	1			100					3	"belt,mag,nos"	"gem4,qty=2"						useitem				sock			2	2																																																																															0
+[        ]	1			100					2	"belt,rar,nos"	"gem4,qty=1"						useitem				sock			1	1																																																																															0
+[        ]	1			100					3	"belt,rar,nos"	"gem4,qty=2"						useitem				sock			2	2																																																																															0
+[        ]	1			100					2	"glov,nor,nos"	"gem4,qty=1"						useitem				sock			1	1																																																																															0
+[        ]	1			100					3	"glov,nor,nos"	"gem4,qty=2"						useitem				sock			2	2																																																																															0
+[        ]	1			100					4	"glov,nor,nos"	"gem4,qty=3"						useitem				sock			3	3																																																																															0
+[        ]	1			100					2	"glov,hiq,nos"	"gem4,qty=1"						useitem				sock			1	1																																																																															0
+[        ]	1			100					3	"glov,hiq,nos"	"gem4,qty=2"						useitem				sock			2	2																																																																															0
+[        ]	1			100					4	"glov,hiq,nos"	"gem4,qty=3"						useitem				sock			3	3																																																																															0
+[        ]	1			100					2	"glov,mag,nos"	"gem4,qty=1"						useitem				sock			1	1																																																																															0
+[        ]	1			100					3	"glov,mag,nos"	"gem4,qty=2"						useitem				sock			2	2																																																																															0
+[        ]	1			100					4	"glov,mag,nos"	"gem4,qty=3"						useitem				sock			3	3																																																																															0
+[        ]	1			100					2	"glov,rar,nos"	"gem4,qty=1"						useitem				sock			1	1																																																																															0
+[        ]	1			100					3	"glov,rar,nos"	"gem4,qty=2"						useitem				sock			2	2																																																																															0
+[        ]	1			100					4	"glov,rar,nos"	"gem4,qty=3"						useitem				sock			3	3																																																																															0
+[        ]	1			100					2	"boot,nor,nos"	"gem4,qty=1"						useitem				sock			1	1																																																																															0
+[        ]	1			100					3	"boot,nor,nos"	"gem4,qty=2"						useitem				sock			2	2																																																																															0
+[        ]	1			100					4	"boot,nor,nos"	"gem4,qty=3"						useitem				sock			3	3																																																																															0
+[        ]	1			100					2	"boot,hiq,nos"	"gem4,qty=1"						useitem				sock			1	1																																																																															0
+[        ]	1			100					3	"boot,hiq,nos"	"gem4,qty=2"						useitem				sock			2	2																																																																															0
+[        ]	1			100					4	"boot,hiq,nos"	"gem4,qty=3"						useitem				sock			3	3																																																																															0
+[        ]	1			100					2	"boot,mag,nos"	"gem4,qty=1"						useitem				sock			1	1																																																																															0
+[        ]	1			100					3	"boot,mag,nos"	"gem4,qty=2"						useitem				sock			2	2																																																																															0
+[        ]	1			100					4	"boot,mag,nos"	"gem4,qty=3"						useitem				sock			3	3																																																																															0
+[        ]	1			100					2	"boot,rar,nos"	"gem4,qty=1"						useitem				sock			1	1																																																																															0
+[        ]	1			100					3	"boot,rar,nos"	"gem4,qty=2"						useitem				sock			2	2																																																																															0
+[        ]	1			100					4	"boot,rar,nos"	"gem4,qty=3"						useitem				sock			3	3																																																																															0
 [        ]	1			100					2	"helm,nor,nos"	"gem4,qty=1"						useitem				sock			1	1																																																																															0
 [        ]	1			100					3	"helm,nor,nos"	"gem4,qty=2"						useitem				sock			2	2																																																																															0
 [        ]	1			100					4	"helm,nor,nos"	"gem4,qty=3"						useitem				sock			3	3																																																																															0
 [        ]	1			100					2	"helm,hiq,nos"	"gem4,qty=1"						useitem				sock			1	1																																																																															0
 [        ]	1			100					3	"helm,hiq,nos"	"gem4,qty=2"						useitem				sock			2	2																																																																															0
 [        ]	1			100					4	"helm,hiq,nos"	"gem4,qty=3"						useitem				sock			3	3																																																																															0
+[        ]	1			100					2	"helm,mag,nos"	"gem4,qty=1"						useitem				sock			1	1																																																																															0
+[        ]	1			100					3	"helm,mag,nos"	"gem4,qty=2"						useitem				sock			2	2																																																																															0
+[        ]	1			100					4	"helm,mag,nos"	"gem4,qty=3"						useitem				sock			3	3																																																																															0
+[        ]	1			100					2	"helm,rar,nos"	"gem4,qty=1"						useitem				sock			1	1																																																																															0
+[        ]	1			100					3	"helm,rar,nos"	"gem4,qty=2"						useitem				sock			2	2																																																																															0
+[        ]	1			100					4	"helm,rar,nos"	"gem4,qty=3"						useitem				sock			3	3																																																																															0
 [        ]	1			100					2	"shld,nor,nos"	"gem4,qty=1"						useitem				sock			1	1																																																																															0
 [        ]	1			100					3	"shld,nor,nos"	"gem4,qty=2"						useitem				sock			2	2																																																																															0
 [        ]	1			100					4	"shld,nor,nos"	"gem4,qty=3"						useitem				sock			3	3																																																																															0
@@ -255,7 +298,19 @@ Token of Absolution	1			100					4	tes	ceh	bet	fed				toa																								
 [        ]	1			100					4	"weap,hiq,nos"	"gem4,qty=3"						useitem				sock			3	3																																																																															0
 [        ]	1			100					5	"weap,hiq,nos"	"gem4,qty=4"						useitem				sock			4	4																																																																															0
 [        ]	1			100					3	"weap,hiq,nos"	"ring,uni"	"skz,qty=1"					useitem				sock			5	5																																																																															0
-[武器打孔]	1			100					4	"weap,hiq,nos"	"ring,uni"	"skz,qty=2"					useitem				sock			6	6																																																																															0
+[        ]	1			100					4	"weap,hiq,nos"	"ring,uni"	"skz,qty=2"					useitem				sock			6	6																																																																															0
+[        ]	1			100					2	"weap,mag,nos"	"gem4,qty=1"						useitem				sock			1	1																																																																															0
+[        ]	1			100					3	"weap,mag,nos"	"gem4,qty=2"						useitem				sock			2	2																																																																															0
+[        ]	1			100					4	"weap,mag,nos"	"gem4,qty=3"						useitem				sock			3	3																																																																															0
+[        ]	1			100					5	"weap,mag,nos"	"gem4,qty=4"						useitem				sock			4	4																																																																															0
+[        ]	1			100					2	"weap,rar,nos"	"gem4,qty=1"						useitem				sock			1	1																																																																															0
+[        ]	1			100					3	"weap,rar,nos"	"gem4,qty=2"						useitem				sock			2	2																																																																															0
+[        ]	1			100					4	"weap,rar,nos"	"gem4,qty=3"						useitem				sock			3	3																																																																															0
+[        ]	1			100					5	"weap,rar,nos"	"gem4,qty=4"						useitem				sock			4	4																																																																															0
+[首饰打孔]	1			100					2	"rin,mag,nos"	"gem4,qty=1"						useitem				sock			1	1																																																																															0
+[        ]	1			100					2	"rin,rar,nos"	"gem4,qty=1"						useitem				sock			1	1																																																																															0
+[        ]	1			100					2	"amu,mag,nos"	"gem4,qty=1"						useitem				sock			1	1																																																																															0
+[        ]	1			100					2	"amu,rar,nos"	"gem4,qty=1"						useitem				sock			1	1																																																																															0
 																																																																																																								
 [套装物品回收]Immortal King	1			100					6	Immortal King's Will	Immortal King's Soul Cage	Immortal King's Detail	Immortal King's Forge	Immortal King's Pillar	Immortal King's Stone Crusher		run4	99																																																																																						0
 Natalya's Odium	1			100					4	Natalya's Totem	Natalya's Mark	Natalya's Shadow	Natalya's Soul				run4	99																																																																																						0
@@ -351,10 +406,6 @@ Sazabi's Grand Tribute	1			100					3	Sazabi's Cobalt Redeemer	Sazabi's Ghost Lib
 [        ]	1			100					2	Dracul's Grasp	moil						r17	99																												moil																																																										0
 [传奇物品回收]END	1			100					2	Arioc's Needle	moil						r17	99																												moil																																																										0
 																																																																																																								
-cm151	1			100					2	"jew,uni"	moil						r13	99																																																																																						0
-cm157	1			100					2	"cm3,uni"	moil						r14	99																																																																																						0
-cm157	1			100					2	"cm2,uni"	moil						r15	99																																																																																						0
-cm157	1			100					2	"cm1,uni"	moil						r16	99																																																																																						0
 																																																																																																								
 反镶嵌1	1			100					3	"weap,uni,sock"	run3	tsc					"useitem,rem"																																																																																							0
 反镶嵌2	1			100					3	"weap,set,sock"	run3	tsc					"useitem,rem"																																																																																							0
@@ -363,52 +414,37 @@ cm157	1			100					2	"cm1,uni"	moil						r16	99																																		
 反镶嵌5	1			100					3	"weap,rar,sock"	run3	tsc					"useitem,rem"																																																																																							0
 反镶嵌6	1			100					3	"armo,rar,sock"	run3	tsc					"useitem,rem"																																																																																							0
 																																																																																																								
-3 perfect gems + 1 magic item -> magic item	1			100					5	"any,mag"	run1	"gem4,qty=3"					"usetype,mag"	99																																																																																						0
 																																																																																																								
-[护身符附魔]	1			100					3	char	run2	tsc					"useitem,rch,qty=255"				charged		54	255	1																																																																															0
-[护身符附魔]	1			100					3	char	run2	wms					"useitem,rch,qty=255"				charged		74	255	1																																																																															0
 暗金护符+暗金戒指+完美宝石 重置	1			100					3	"char,uni"	gem4	"ring,uni"					"usetype,uni"	99																																																																																						0
 三个护符合成一个蓝色护符	1			100					3	"char,qty=3"							"char,mag"	99																																																																																						0
 三蓝色戒指合成蓝色项链	1			100					3	"rin,mag,qty=3"							"amu,mag"	99																																																																																						0
 三蓝色项链合成蓝色戒指	1			100					3	"amu,mag,qty=3"							"rin,mag"	99																																																																																						0
 蓝色戒指升级	1			100					3	"rin,mag"	gem4	run1					"usetype,rar"			100																																																																																				0
 蓝色项链升级	1			100					3	"amu,mag"	gem4	run1					"usetype,rar"			100																																																																																				0
+	1			100					3	"armo,mag"	gem4	run1					"usetype,rar"	99																																																																																						0
+	1			100					3	"weap,mag"	gem4	run1					"usetype,rar"	99																																																																																						0
 洗亮金戒指	1			100					3	"rin,rar"	gem4	run1					"usetype,rar"	99																																																																																						0
 洗亮金项链	1			100					3	"amu,rar"	gem4	run1					"usetype,rar"	99																																																																																						0
 洗亮金武器	1			100					3	"weap,rar"	gem4	run1					"usetype,rar"	99																																																																																						0
 洗亮金防具	1			100					3	"armo,rar"	gem4	run1					"usetype,rar"	99																																																																																						0
-洗暗金戒指	1			100					3	"rin,uni"	jew	run2					"usetype,uni"	99																																																																																						0
-洗暗金项链	1			100					3	"amu,uni"	jew	run2					"usetype,uni"	99																																																																																						0
-洗暗金戒指	1			100					3	"weap,uni"	jew	run2					"usetype,uni"	99																																																																																						0
-洗暗金项链	1			100					3	"armo,uni"	jew	run2					"usetype,uni"	99																																																																																						0
+洗暗金戒指	1			100					3	"rin,uni"	"jew,rar"	run2					"usetype,uni"	99																																																																																						0
+洗暗金项链	1			100					3	"amu,uni"	"jew,rar"	run2					"usetype,uni"	99																																																																																						0
+洗暗金戒指	1			100					3	"weap,uni"	"jew,rar"	run2					"usetype,uni"	99																																																																																						0
+洗暗金项链	1			100					3	"armo,uni"	"jew,rar"	run2					"usetype,uni"	99																																																																																						0
+[        ]	1			100					4	"jew,mag,qty=4"							"jew,rar"	99																																																																																						0
+[        ]	1			100					4	"gem4,qty=4"							"jew,rar"	99																																																																																						0
+[        ]	1			100					4	"jew,rar,qty=4"							"jew,uni"	99																																																																																						0
+[        ]	1			100					4	"jew,uni,qty=4"							run3	99																																																																																						0
 																																																																																																								
-WW Collector #07	1			100					3	"weap,mag"	jew	gem4					"usetype,rar"	99																																																																																						0
-WW Collector #08	1			100					3	"armo,mag"	jew	gem4					"usetype,rar"	99																																																																																						0
-WW Collector #07	1			100					3	"weap,nor"	run3	gem4					"usetype,uni"	99																																																																																						0
-WW Collector #08	1			100					3	"armo,nor"	run3	gem4					"usetype,uni"	99																																																																																						0
+WW Collector #07	1			100					3	"weap,mag"	"jew,rar"	gem4					"usetype,rar"	99																																																																																						0
+WW Collector #08	1			100					3	"armo,mag"	"jew,rar"	gem4					"usetype,rar"	99																																																																																						0
 																																																																																																								
 																																																																																																								
-制作无形	1			100					4	"any,mag"	"gem3,qty=3"						"usetype,mag"			100	ethereal	5		1	1																																																																															0
-制作无形	1								4	"any,rar"	"run1,qty=3"						"usetype,rar"			100	ethereal	5		1	1																																																																															0
 																																																																																																								
-[物品测试]START	1			100					1	moil							"lwb,uni"	99																																																																																						0
-[        ]	1			100					1	tsc							"sbw,uni"	99																																																																																						0
-[        ]	1			100					1	isc							"hbw,uni"	99																																																																																						0
-[        ]	1			100					1	rvl							"lbw,uni"	99																																																																																						0
+[物品测试]START	1			100					3	weap	moil	rvl					"usetype,crf"		50	50	att%/lvl		2			att/lvl		2			hp/lvl		8			ac%/lvl		8																																																																		0
+[        ]	1			100					1	tsc							Windforce	99																																																																																						0
+[        ]	1			100					1	isc							r28	99																																																																																						0
+[        ]	1			100					1	rvl							r29	99																																																																																						0
 [物品测试]START	1			100					1	yps							"cbw,uni"	99																																																																																						0
-																																																																																																								
-																																																																																																								
-																																																																																																								
-																																																																																																								
-															sbw																																																																																									
-															hbw																																																																																									
-															lbw																																																																																									
-															cbw																																																																																									
-															sbb																																																																																									
-															lbb																																																																																									
-															swb																																																																																									
-															lwb																																																																																									
-															lxb																																																																																									
-															mxb																																																																																									
-															hxb																																																																																									
-															rxb																																																																																									
+箭袋附魔	1			100					2	aqv	rvl						usetype																																																																																							0
+箭袋附魔	1			100					2	cqv	rvl						usetype				rep-quant	50																																																																																		0

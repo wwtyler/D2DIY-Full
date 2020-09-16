@@ -266,7 +266,7 @@ Wizardspike	100	1		1	1	69	61	7dg	Bone Knife			5	5000	lgry	lgry						mana/lvl	24	
 Constricting Ring	100	0		1	1	95	95	rin	Ring			5	5000	cblu	cblu						res-all		100	100	regen		-30	-30	mag%		100	100	res-all-max		15	15										0																							0
 Stormspire	100	1		1	1	78	70	7wc	Giant Thresher			5	5000	dblu	dblu						res-ltng		50	50	gethit-skill	53	5	5	dmg%		150	250	str		10	10	gethit-skill	38	2	0	swing2		30	30	indestruct		1	1	dmg-ltng		1	237	light-thorns		27	27	*enr		-10	-10									0
 Eaglehorn	100	1		1	1	77	69	6l7	Crusader Bow			5	5000	dgld	dgld						ignore-ac		1	1	att/lvl	12			dmg%/lvl	16			dmg%		200	200	ama		1	1	dex		25	25	dmg/lvl		16	20																					0
-Windforce	100	1		2	1	80	73	6lw	Hydra Bow			5	5000	dyel	dyel						dex		30	30	dmg/lvl	35			regen-stam		30	30	manasteal		8	10	knock		1	1	dmg%		350	450	swing2		35	36	sock		2	3	indestruct		1	1	att%		100	100	dmg/lvl		16	20					0
+Windforce	100	1		2	1	80	73	6lw	Hydra Bow			5	5000	dyel	dyel						dex		30	30	dmg/lvl	35			regen-stam		30	30	manasteal		8	10	knock		1	1	dmg%		350	450	swing2		35	36	sock		2	3	indestruct		1	1	att%		100	100	dmg		200	200					0
 Rings					1																																																																0
 Bul Katho's Wedding Band	100	1		1	1	66	58	rin	Ring			5	5000	dpur	dpur						hp/lvl	8			allskills		1	1	lifesteal		5	7	stam		50	50	abs-ltng%		20	30																													0
 The Cat's Eye	100	1		3	1	58	50	amu	Amulet			5	5000	oran	oran						move2		30	30	swing2		20	20	ac		150	150	ac-miss		150	300	dex		30	30																													0
@@ -374,9 +374,9 @@ Marrowwalk	100	1		1	1	74	66	umb	boneweave boots			5	5000	dgry							ac%		170	200
 Heaven's Light	100	1	1	1	1	69	61	7sc	mighty scepter			5	5000	cblu	cblu						dmg%		280	360	swing2		20	30	reduce-ac		33	33	light		5	5	demon-heal		15	20	crush		33	33	sock		1	3	pal		2	4																	0
 Merman's Speed	100				1																																																																0
 Arachnid Mesh	100	1		1	1	87	80	ulc	spiderweb sash			5	5000	blac	blac						ac%		90	120	cast2		20	20	charged	Venom	11	3	allskills		1	1	slow		10	10	mana%		5	5																									0
-Nosferatu's Coil	100	1		1	1	68	51	uvc	vampirefang belt			5	5000								str		15	15	mana-kill		2	2	slow		10	10	lifesteal		5	7	swing2		10	10	light		-3	-3																									0
+Nosferatu's Coil	100	1		1	1	68	51	uvc	vampirefang belt			5	5000								str		20	20	mana-kill		2	2	slow		15	15	lifesteal		6	8	swing2		20	20	light		-3	-3	vit		20	20																					0
 Metalgrid	100	1	1	2	1	85	81	amu	amulet			5	5000								ac		300	350	res-all		25	35	att		400	450	charged	IronGolem	11	22	charged	Iron Maiden	20	12																													0
-Verdugo's Hearty Cord	100	1		1	1	71	63	umc	mithril coil			5	5000	blac	blac						ac%		120	180	vit		40	55	stam		100	120	balance2		20	20	red-dmg%		12	15	regen		12	15																									0
+Verdugo's Hearty Cord	100	1		1	1	71	63	umc	mithril coil			5	5000	blac	blac						ac%		120	180	vit		40	55	stam		100	120	balance2		20	20	red-dmg%		12	15	regen		12	15	half-freeze		1	1																					0
 Sigurd's Staunch	100			1	1							5	5000																																																								0
 Carrion Wind	100	1		2	1	68	60	rin	ring			3	5000								ac-miss		130	180	lifesteal		6	9	res-pois		60	60	gethit-skill	Poison Nova	10	10	charged	Plague Poppy	15	21	hit-skill	Twister	8	13	dmg-to-mana		10	10																					0
 Giantskull	100	1		1	1	73	65	uh9	bone visage			3	5000	lgry	lgry		invbhm				ac		250	320	str		25	35	crush		10	10	sock		1	2	knock		1	1																													0
